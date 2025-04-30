@@ -1,0 +1,576 @@
+[
+    {
+        "country_name": "Sweden",
+        "government": "monarchy",
+        "main_culture": "swedish",
+        "religion": "catholic",
+        "total_development": "113 "
+    },
+    {
+        "country_name": "Norway",
+        "government": "monarchy",
+        "main_culture": "norwegian",
+        "religion": "catholic",
+        "total_development": "84 "
+    },
+    {
+        "country_name": "Genoa",
+        "government": "republic",
+        "main_culture": "ligurian",
+        "religion": "catholic",
+        "total_development": "80 "
+    },
+    {
+        "country_name": "Korea",
+        "government": "monarchy",
+        "main_culture": "korean",
+        "religion": "confucianism",
+        "total_development": "145 "
+    },
+    {
+        "country_name": "Dai Viet",
+        "government": "monarchy",
+        "main_culture": "vietnamese",
+        "religion": "mahayana",
+        "total_development": "108 "
+    },
+    {
+        "country_name": "Savoy",
+        "government": "monarchy",
+        "main_culture": "piedmontese",
+        "religion": "catholic",
+        "total_development": "75 "
+    },
+    {
+        "country_name": "Champa",
+        "government": "monarchy",
+        "main_culture": "cham",
+        "religion": "hinduism",
+        "total_development": "51 "
+    },
+    {
+        "country_name": "Milan",
+        "government": "monarchy",
+        "main_culture": "lombard",
+        "religion": "catholic",
+        "total_development": "121 "
+    },
+    {
+        "country_name": "MongolKhanate",
+        "government": "tribal",
+        "main_culture": "mongol",
+        "religion": "tengri_pagan_reformed",
+        "total_development": "96 "
+    },
+    {
+        "country_name": "OiratHorde",
+        "government": "tribal",
+        "main_culture": "oirats",
+        "religion": "tengri_pagan_reformed",
+        "total_development": "99 "
+    },
+    {
+        "country_name": "Shaybanid",
+        "government": "tribal",
+        "main_culture": "uzbehk",
+        "religion": "sunni",
+        "total_development": "189 "
+    },
+    {
+        "country_name": "Muscowy",
+        "government": "monarchy",
+        "main_culture": "russian",
+        "religion": "orthodox",
+        "total_development": "197 "
+    },
+    {
+        "country_name": "Kazan",
+        "government": "tribal",
+        "main_culture": "kazani",
+        "religion": "sunni",
+        "total_development": "109 "
+    },
+    {
+        "country_name": "Morocco",
+        "government": "monarchy",
+        "main_culture": "moroccan",
+        "religion": "sunni",
+        "total_development": "165 "
+    },
+    {
+        "country_name": "Mali",
+        "government": "monarchy",
+        "main_culture": "mali",
+        "religion": "sunni",
+        "total_development": "108 "
+    },
+    {
+        "country_name": "Venice",
+        "government": "republic",
+        "main_culture": "venetian",
+        "religion": "catholic",
+        "total_development": "123 "
+    },
+    {
+        "country_name": "Songhai",
+        "government": "monarchy",
+        "main_culture": "songhai",
+        "religion": "sunni",
+        "total_development": "53 "
+    },
+    {
+        "country_name": "Kongo",
+        "government": "tribal",
+        "main_culture": "kongolese",
+        "religion": "shamanism",
+        "total_development": "57 "
+    },
+    {
+        "country_name": "Papal",
+        "government": "theocracy",
+        "main_culture": "umbrian",
+        "religion": "catholic",
+        "total_development": "52 "
+    },
+    {
+        "country_name": "Denmark",
+        "government": "monarchy",
+        "main_culture": "danish",
+        "religion": "catholic",
+        "total_development": "118 "
+    },
+    {
+        "country_name": "Naples",
+        "government": "monarchy",
+        "main_culture": "neapolitan",
+        "religion": "catholic",
+        "total_development": "102 "
+    },
+    {
+        "country_name": "Adal",
+        "government": "monarchy",
+        "main_culture": "somali",
+        "religion": "sunni",
+        "total_development": "55 "
+    },
+    {
+        "country_name": "Ethiopia",
+        "government": "monarchy",
+        "main_culture": "amhara",
+        "religion": "coptic",
+        "total_development": "72 "
+    },
+    {
+        "country_name": "Mameluks",
+        "government": "monarchy",
+        "main_culture": "al_misr_arabic",
+        "religion": "sunni",
+        "total_development": "248 "
+    },
+    {
+        "country_name": "Sicily",
+        "government": "monarchy",
+        "main_culture": "sicilian",
+        "religion": "catholic",
+        "total_development": "63 "
+    },
+    {
+        "country_name": "Austria",
+        "government": "monarchy",
+        "main_culture": "austrian",
+        "religion": "catholic",
+        "total_development": "171 "
+    },
+    {
+        "country_name": "Hungary",
+        "government": "monarchy",
+        "main_culture": "hungarian",
+        "religion": "catholic",
+        "total_development": "150 "
+    },
+    {
+        "country_name": "Ottoman Empire",
+        "government": "monarchy",
+        "main_culture": "turkish",
+        "religion": "sunni",
+        "total_development": "287 "
+    },
+    {
+        "country_name": "Switzerland",
+        "government": "republic",
+        "main_culture": "swiss",
+        "religion": "catholic",
+        "total_development": "51 "
+    },
+    {
+        "country_name": "France",
+        "government": "monarchy",
+        "main_culture": "cosmopolitan_french",
+        "religion": "catholic",
+        "total_development": "401 "
+    },
+    {
+        "country_name": "Brittany",
+        "government": "monarchy",
+        "main_culture": "breton",
+        "religion": "catholic",
+        "total_development": "55 "
+    },
+    {
+        "country_name": "England",
+        "government": "monarchy",
+        "main_culture": "english",
+        "religion": "catholic",
+        "total_development": "280 "
+    },
+    {
+        "country_name": "Brabant",
+        "government": "monarchy",
+        "main_culture": "flemish",
+        "religion": "catholic",
+        "total_development": "56 "
+    },
+    {
+        "country_name": "Castile",
+        "government": "monarchy",
+        "main_culture": "castillian",
+        "religion": "catholic",
+        "total_development": "248 "
+    },
+    {
+        "country_name": "Aragon",
+        "government": "monarchy",
+        "main_culture": "catalan",
+        "religion": "catholic",
+        "total_development": "137 "
+    },
+    {
+        "country_name": "Brandenburg",
+        "government": "monarchy",
+        "main_culture": "saxon",
+        "religion": "catholic",
+        "total_development": "71 "
+    },
+    {
+        "country_name": "Bohemia",
+        "government": "monarchy",
+        "main_culture": "czech",
+        "religion": "catholic",
+        "total_development": "111 "
+    },
+    {
+        "country_name": "Novgorod",
+        "government": "republic",
+        "main_culture": "novgorodian",
+        "religion": "orthodox",
+        "total_development": "131 "
+    },
+    {
+        "country_name": "Provence",
+        "government": "monarchy",
+        "main_culture": "occitain",
+        "religion": "catholic",
+        "total_development": "54 "
+    },
+    {
+        "country_name": "Ming",
+        "government": "monarchy",
+        "main_culture": "jianghuai",
+        "religion": "confucianism",
+        "total_development": "1071 "
+    },
+    {
+        "country_name": "LanNa",
+        "government": "monarchy",
+        "main_culture": "northern_thai",
+        "religion": "buddhism",
+        "total_development": "55 "
+    },
+    {
+        "country_name": "Khmer",
+        "government": "monarchy",
+        "main_culture": "khmer",
+        "religion": "buddhism",
+        "total_development": "114 "
+    },
+    {
+        "country_name": "LivonianOrder",
+        "government": "theocracy",
+        "main_culture": "baltic_german",
+        "religion": "catholic",
+        "total_development": "58 "
+    },
+    {
+        "country_name": "Teutonic Order",
+        "government": "theocracy",
+        "main_culture": "prussian",
+        "religion": "catholic",
+        "total_development": "93 "
+    },
+    {
+        "country_name": "Karaman",
+        "government": "monarchy",
+        "main_culture": "turkish",
+        "religion": "sunni",
+        "total_development": "57 "
+    },
+    {
+        "country_name": "Syria",
+        "government": "monarchy",
+        "main_culture": "al_suryah_arabic",
+        "religion": "sunni",
+        "total_development": "97 "
+    },
+    {
+        "country_name": "Portugal",
+        "government": "monarchy",
+        "main_culture": "portugese",
+        "religion": "catholic",
+        "total_development": "113 "
+    },
+    {
+        "country_name": "Burgundy",
+        "government": "monarchy",
+        "main_culture": "burgundian",
+        "religion": "catholic",
+        "total_development": "101 "
+    },
+    {
+        "country_name": "Tunisia",
+        "government": "monarchy",
+        "main_culture": "tunisian",
+        "religion": "sunni",
+        "total_development": "111 "
+    },
+    {
+        "country_name": "Lithuania",
+        "government": "monarchy",
+        "main_culture": "lithuanian",
+        "religion": "catholic",
+        "total_development": "237 "
+    },
+    {
+        "country_name": "Poland",
+        "government": "monarchy",
+        "main_culture": "polish",
+        "religion": "catholic",
+        "total_development": "138 "
+    },
+    {
+        "country_name": "Bahmanis",
+        "government": "monarchy",
+        "main_culture": "kannada",
+        "religion": "shiite",
+        "total_development": "209 "
+    },
+    {
+        "country_name": "Vijayanagar",
+        "government": "monarchy",
+        "main_culture": "kannada",
+        "religion": "hinduism",
+        "total_development": "218 "
+    },
+    {
+        "country_name": "Nogai",
+        "government": "tribal",
+        "main_culture": "nogaybak",
+        "religion": "sunni",
+        "total_development": "92 "
+    },
+    {
+        "country_name": "Timurid Empire",
+        "government": "monarchy",
+        "main_culture": "uzbehk",
+        "religion": "sunni",
+        "total_development": "418 "
+    },
+    {
+        "country_name": "Great Horde",
+        "government": "tribal",
+        "main_culture": "mishary",
+        "religion": "sunni",
+        "total_development": "131 "
+    },
+    {
+        "country_name": "Crimea",
+        "government": "tribal",
+        "main_culture": "crimean",
+        "religion": "sunni",
+        "total_development": "77 "
+    },
+    {
+        "country_name": "Orissa",
+        "government": "monarchy",
+        "main_culture": "oriya",
+        "religion": "hinduism",
+        "total_development": "56 "
+    },
+    {
+        "country_name": "Bengal",
+        "government": "monarchy",
+        "main_culture": "bengali",
+        "religion": "sunni",
+        "total_development": "169 "
+    },
+    {
+        "country_name": "Gujarat",
+        "government": "monarchy",
+        "main_culture": "gujarati",
+        "religion": "sunni",
+        "total_development": "67 "
+    },
+    {
+        "country_name": "Jaunpur",
+        "government": "monarchy",
+        "main_culture": "avadhi",
+        "religion": "sunni",
+        "total_development": "152 "
+    },
+    {
+        "country_name": "Malwa",
+        "government": "monarchy",
+        "main_culture": "malvi",
+        "religion": "sunni",
+        "total_development": "53 "
+    },
+    {
+        "country_name": "Delhi",
+        "government": "monarchy",
+        "main_culture": "kanauji",
+        "religion": "sunni",
+        "total_development": "98 "
+    },
+    {
+        "country_name": "Multan",
+        "government": "monarchy",
+        "main_culture": "panjabi",
+        "religion": "sunni",
+        "total_development": "65 "
+    },
+    {
+        "country_name": "Sirhind",
+        "government": "monarchy",
+        "main_culture": "panjabi",
+        "religion": "hinduism",
+        "total_development": "105 "
+    },
+    {
+        "country_name": "Jianzhou",
+        "government": "tribal",
+        "main_culture": "manchu",
+        "religion": "tengri_pagan_reformed",
+        "total_development": "75 "
+    },
+    {
+        "country_name": "Khorchin",
+        "government": "tribal",
+        "main_culture": "chahar",
+        "religion": "tengri_pagan_reformed",
+        "total_development": "62 "
+    },
+    {
+        "country_name": "Chagatai Khanate",
+        "government": "tribal",
+        "main_culture": "kirgiz",
+        "religion": "sunni",
+        "total_development": "71 "
+    },
+    {
+        "country_name": "Yarkand",
+        "government": "monarchy",
+        "main_culture": "uyghur",
+        "religion": "sunni",
+        "total_development": "60 "
+    },
+    {
+        "country_name": "Qara Koyunlu",
+        "government": "tribal",
+        "main_culture": "azerbaijani",
+        "religion": "shiite",
+        "total_development": "113 "
+    },
+    {
+        "country_name": "Fars",
+        "government": "monarchy",
+        "main_culture": "persian",
+        "religion": "shiite",
+        "total_development": "57 "
+    },
+    {
+        "country_name": "LanXang",
+        "government": "monarchy",
+        "main_culture": "lao",
+        "religion": "buddhism",
+        "total_development": "103 "
+    },
+    {
+        "country_name": "Ayutthaya",
+        "government": "monarchy",
+        "main_culture": "central_thai",
+        "religion": "buddhism",
+        "total_development": "134 "
+    },
+    {
+        "country_name": "Malacca",
+        "government": "monarchy",
+        "main_culture": "malayan",
+        "religion": "sunni",
+        "total_development": "61 "
+    },
+    {
+        "country_name": "Ava",
+        "government": "monarchy",
+        "main_culture": "burmese",
+        "religion": "buddhism",
+        "total_development": "62 "
+    },
+    {
+        "country_name": "Tlemcen",
+        "government": "monarchy",
+        "main_culture": "berber",
+        "religion": "sunni",
+        "total_development": "58 "
+    },
+    {
+        "country_name": "Scotland",
+        "government": "monarchy",
+        "main_culture": "scottish",
+        "religion": "catholic",
+        "total_development": "69 "
+    },
+    {
+        "country_name": "Aztec Empire",
+        "government": "monarchy",
+        "main_culture": "aztek",
+        "religion": "nahuatl",
+        "total_development": "52 "
+    },
+    {
+        "country_name": "Pasai",
+        "government": "monarchy",
+        "main_culture": "acehnese",
+        "religion": "sunni",
+        "total_development": "55 "
+    },
+    {
+        "country_name": "Sunda",
+        "government": "monarchy",
+        "main_culture": "sundanese",
+        "religion": "hinduism",
+        "total_development": "69 "
+    },
+    {
+        "country_name": "Majapahit",
+        "government": "monarchy",
+        "main_culture": "javanese",
+        "religion": "hinduism",
+        "total_development": "87 "
+    },
+    {
+        "country_name": "Brunei",
+        "government": "monarchy",
+        "main_culture": "bornean",
+        "religion": "sunni",
+        "total_development": "75 "
+    }
+]
