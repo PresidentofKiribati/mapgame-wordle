@@ -1,1066 +1,1066 @@
 [
     {
         "Tag": "A01",
-        "Development": "226",
-        "country_name": " Lorent",
+        "country_name": "Lorent",
         "government": "monarchy",
-        "primary_culture": "lencori_half_elf",
-        "religion": "regent_court"
+        "religion": "regent_court",
+        "main_culture": "lencori_half_elf",
+        "total_development": "226"
     },
     {
         "Tag": "A02",
-        "Development": "114",
-        "country_name": " Deranne",
-        "government": "1",
-        "primary_culture": "derannic",
-        "religion": "regent_court"
+        "country_name": "Deranne",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "derannic",
+        "total_development": "114"
     },
     {
         "Tag": "A03",
-        "Development": "66",
-        "country_name": " Redglades",
-        "government": "1",
-        "primary_culture": "moon_elf",
-        "religion": "regent_court"
+        "country_name": "Redglades",
+        "government": "republic",
+        "religion": "regent_court",
+        "main_culture": "moon_elf",
+        "total_development": "66"
     },
     {
         "Tag": "A04",
-        "Development": "84",
-        "country_name": " Wesdam",
-        "government": "1",
-        "primary_culture": "half_elf",
-        "religion": "regent_court"
+        "country_name": "Wesdam",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "half_elf",
+        "total_development": "84"
     },
     {
         "Tag": "A05",
-        "Development": "68",
-        "country_name": " Reveria",
-        "government": "2",
-        "primary_culture": "reverian",
-        "religion": "regent_court"
+        "country_name": "Reveria",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "reverian",
+        "total_development": "68"
     },
     {
         "Tag": "A06",
-        "Development": "81",
-        "country_name": " Nimscodd",
-        "government": "1",
-        "primary_culture": "cliff_gnome",
-        "religion": "the_thought"
+        "country_name": "Nimscodd",
+        "government": "republic",
+        "religion": "the_thought",
+        "main_culture": "cliff_gnome",
+        "total_development": "81"
     },
     {
         "Tag": "A09",
-        "Development": "74",
-        "country_name": " Sorncost",
-        "government": "1",
-        "primary_culture": "sorncosti",
-        "religion": "regent_court"
+        "country_name": "Sorncost",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "sorncosti",
+        "total_development": "74"
     },
     {
         "Tag": "A11",
-        "Development": "66",
-        "country_name": " Pearlsedge",
-        "government": "1",
-        "primary_culture": "pearlsedger",
-        "religion": "regent_court"
+        "country_name": "Pearlsedge",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "pearlsedger",
+        "total_development": "66"
     },
     {
         "Tag": "A12",
-        "Development": "61",
-        "country_name": " Beepeck",
-        "government": "1",
-        "primary_culture": "imperial_halfling",
-        "religion": "regent_court"
+        "country_name": "Beepeck",
+        "government": "republic",
+        "religion": "regent_court",
+        "main_culture": "imperial_halfling",
+        "total_development": "61"
     },
     {
         "Tag": "A13",
-        "Development": "326",
-        "country_name": " Gawed",
-        "government": "2",
-        "primary_culture": "gawedi",
-        "religion": "regent_court"
+        "country_name": "Gawed",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "gawedi",
+        "total_development": "326"
     },
     {
         "Tag": "A18",
-        "Development": "52",
-        "country_name": " Rubenaire",
-        "government": "1",
-        "primary_culture": "high_lorentish",
-        "religion": "regent_court"
+        "country_name": "Rubenaire",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "high_lorentish",
+        "total_development": "52"
     },
     {
         "Tag": "A20",
-        "Development": "57",
-        "country_name": " Rubyhold",
-        "government": "1",
-        "primary_culture": "ruby_dwarf",
-        "religion": "dwarven_pantheon"
+        "country_name": "Rubyhold",
+        "government": "monarchy",
+        "religion": "dwarven_pantheon",
+        "main_culture": "ruby_dwarf",
+        "total_development": "57"
     },
     {
         "Tag": "A21",
-        "Development": "55",
-        "country_name": " Venail",
-        "government": "1",
-        "primary_culture": "moon_elf",
-        "religion": "elven_forebears"
+        "country_name": "Venail",
+        "government": "republic",
+        "religion": "elven_forebears",
+        "main_culture": "moon_elf",
+        "total_development": "55"
     },
     {
         "Tag": "A24",
-        "Development": "64",
-        "country_name": " Westmoors",
-        "government": "1",
-        "primary_culture": "moorman",
-        "religion": "regent_court"
+        "country_name": "Westmoors",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "moorman",
+        "total_development": "64"
     },
     {
         "Tag": "A25",
-        "Development": "65",
-        "country_name": " Damescrown",
-        "government": "1",
-        "primary_culture": "crownsman",
-        "religion": "regent_court"
+        "country_name": "Damescrown",
+        "government": "republic",
+        "religion": "regent_court",
+        "main_culture": "crownsman",
+        "total_development": "65"
     },
     {
         "Tag": "A26",
-        "Development": "57",
-        "country_name": " Redscale Clan",
-        "government": "1",
-        "primary_culture": "redscale_kobold",
-        "religion": "kobold_dragon_cult"
+        "country_name": "Redscale Clan",
+        "government": "tribal",
+        "religion": "kobold_dragon_cult",
+        "main_culture": "redscale_kobold",
+        "total_development": "57"
     },
     {
         "Tag": "A27",
-        "Development": "65",
-        "country_name": " Bluescale Clan",
-        "government": "1",
-        "primary_culture": "bluescale_kobold",
-        "religion": "kobold_dragon_cult"
+        "country_name": "Bluescale Clan",
+        "government": "tribal",
+        "religion": "kobold_dragon_cult",
+        "main_culture": "bluescale_kobold",
+        "total_development": "65"
     },
     {
         "Tag": "A29",
-        "Development": "144",
-        "country_name": " Busilar",
-        "government": "2",
-        "primary_culture": "busilari",
-        "religion": "regent_court"
+        "country_name": "Busilar",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "busilari",
+        "total_development": "144"
     },
     {
         "Tag": "A30",
-        "Development": "162",
-        "country_name": " Wex",
-        "government": "2",
-        "primary_culture": "wexonard",
-        "religion": "regent_court"
+        "country_name": "Wex",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "wexonard",
+        "total_development": "162"
     },
     {
         "Tag": "A31",
-        "Development": "72",
-        "country_name": " Moonhaven",
-        "government": "1",
-        "primary_culture": "moon_elf",
-        "religion": "regent_court"
+        "country_name": "Moonhaven",
+        "government": "republic",
+        "religion": "regent_court",
+        "main_culture": "moon_elf",
+        "total_development": "72"
     },
     {
         "Tag": "A32",
-        "Development": "141",
-        "country_name": " Ibevar",
-        "government": "2",
-        "primary_culture": "moon_elf",
-        "religion": "regent_court"
+        "country_name": "Ibevar",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "moon_elf",
+        "total_development": "141"
     },
     {
         "Tag": "A33",
-        "Development": "105",
-        "country_name": " Verne",
-        "government": "1",
-        "primary_culture": "vernman",
-        "religion": "regent_court"
+        "country_name": "Verne",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "vernman",
+        "total_development": "105"
     },
     {
         "Tag": "A45",
-        "Development": "70",
-        "country_name": " Istralore",
-        "government": "1",
-        "primary_culture": "half_elf",
-        "religion": "regent_court"
+        "country_name": "Istralore",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "half_elf",
+        "total_development": "70"
     },
     {
         "Tag": "A46",
-        "Development": "118",
-        "country_name": " Arbaran",
-        "government": "1",
-        "primary_culture": "half_elf",
-        "religion": "regent_court"
+        "country_name": "Arbaran",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "half_elf",
+        "total_development": "118"
     },
     {
         "Tag": "A47",
-        "Development": "53",
-        "country_name": " Eborthil",
-        "government": "2",
-        "primary_culture": "tefori",
-        "religion": "regent_court"
+        "country_name": "Eborthil",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "tefori",
+        "total_development": "53"
     },
     {
         "Tag": "A48",
-        "Development": "87",
-        "country_name": " Sugamber",
-        "government": "1",
-        "primary_culture": "wexonard",
-        "religion": "regent_court"
+        "country_name": "Sugamber",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "wexonard",
+        "total_development": "87"
     },
     {
         "Tag": "A59",
-        "Development": "138",
-        "country_name": " Corvuria",
-        "government": "2",
-        "primary_culture": "corvurian",
-        "religion": "regent_court"
+        "country_name": "Corvuria",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "corvurian",
+        "total_development": "138"
     },
     {
         "Tag": "A60",
-        "Development": "50",
-        "country_name": " Asheniande",
-        "government": "1",
-        "primary_culture": "arannese",
-        "religion": "regent_court"
+        "country_name": "Asheniande",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "arannese",
+        "total_development": "50"
     },
     {
         "Tag": "A85",
-        "Development": "71",
-        "country_name": " Magisterium",
-        "government": "1",
-        "primary_culture": "east_damerian",
-        "religion": "regent_court"
+        "country_name": "Magisterium",
+        "government": "theocracy",
+        "religion": "regent_court",
+        "main_culture": "east_damerian",
+        "total_development": "71"
     },
     {
         "Tag": "A89",
-        "Development": "50",
-        "country_name": " Aranmas",
-        "government": "1",
-        "primary_culture": "crownsman",
-        "religion": "regent_court"
+        "country_name": "Aranmas",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "crownsman",
+        "total_development": "50"
     },
     {
         "Tag": "A92",
-        "Development": "56",
-        "country_name": " Leslinpar",
-        "government": "1",
-        "primary_culture": "esmari",
-        "religion": "regent_court"
+        "country_name": "Leslinpar",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "esmari",
+        "total_development": "56"
     },
     {
         "Tag": "A93",
-        "Development": "59",
-        "country_name": " Estallen",
-        "government": "1",
-        "primary_culture": "esmari",
-        "religion": "regent_court"
+        "country_name": "Estallen",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "esmari",
+        "total_development": "59"
     },
     {
         "Tag": "A98",
-        "Development": "79",
-        "country_name": " Cestirande",
-        "government": "1",
-        "primary_culture": "east_damerian",
-        "religion": "regent_court"
+        "country_name": "Cestirande",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "east_damerian",
+        "total_development": "79"
     },
     {
         "Tag": "B36",
-        "Development": "51",
-        "country_name": " Marrhold",
-        "government": "2",
-        "primary_culture": "marrodic",
-        "religion": "regent_court"
+        "country_name": "Marrhold",
+        "government": "monarchy",
+        "religion": "regent_court",
+        "main_culture": "marrodic",
+        "total_development": "51"
     },
     {
         "Tag": "F21",
-        "Development": "85",
-        "country_name": " Birzartanses",
-        "government": "2",
-        "primary_culture": "sun_elf",
-        "religion": "bulwari_sun_cult"
+        "country_name": "Birzartanses",
+        "government": "monarchy",
+        "religion": "bulwari_sun_cult",
+        "main_culture": "sun_elf",
+        "total_development": "85"
     },
     {
         "Tag": "F22",
-        "Development": "58",
-        "country_name": " Dartaxagerdim",
-        "government": "2",
-        "primary_culture": "bahari",
-        "religion": "old_bulwari_sun_cult"
+        "country_name": "Dartaxagerdim",
+        "government": "monarchy",
+        "religion": "old_bulwari_sun_cult",
+        "main_culture": "bahari",
+        "total_development": "58"
     },
     {
         "Tag": "F23",
-        "Development": "55",
-        "country_name": " Ovdal Tungr",
-        "government": "1",
-        "primary_culture": "copper_dwarf",
-        "religion": "ancestor_worship"
+        "country_name": "Ovdal Tungr",
+        "government": "republic",
+        "religion": "ancestor_worship",
+        "main_culture": "copper_dwarf",
+        "total_development": "55"
     },
     {
         "Tag": "F24",
-        "Development": "64",
-        "country_name": " Brasan",
-        "government": "1",
-        "primary_culture": "brasanni",
-        "religion": "bulwari_sun_cult"
+        "country_name": "Brasan",
+        "government": "republic",
+        "religion": "bulwari_sun_cult",
+        "main_culture": "brasanni",
+        "total_development": "64"
     },
     {
         "Tag": "F25",
-        "Development": "99",
-        "country_name": " Sareyand",
-        "government": "2",
-        "primary_culture": "sun_elf",
-        "religion": "bulwari_sun_cult"
+        "country_name": "Sareyand",
+        "government": "monarchy",
+        "religion": "bulwari_sun_cult",
+        "main_culture": "sun_elf",
+        "total_development": "99"
     },
     {
         "Tag": "F27",
-        "Development": "76",
-        "country_name": " Ayarallen",
-        "government": "1",
-        "primary_culture": "firanyan_harpy",
-        "religion": "the_hunt"
+        "country_name": "Ayarallen",
+        "government": "tribal",
+        "religion": "the_hunt",
+        "main_culture": "firanyan_harpy",
+        "total_development": "76"
     },
     {
         "Tag": "F28",
-        "Development": "78",
-        "country_name": " Tluukt",
-        "government": "1",
-        "primary_culture": "sandfang_gnoll",
-        "religion": "xhazobkult"
+        "country_name": "Tluukt",
+        "government": "tribal",
+        "religion": "xhazobkult",
+        "main_culture": "sandfang_gnoll",
+        "total_development": "78"
     },
     {
         "Tag": "F29",
-        "Development": "97",
-        "country_name": " Zokka",
-        "government": "1",
-        "primary_culture": "sandfang_gnoll",
-        "religion": "xhazobkult"
+        "country_name": "Zokka",
+        "government": "tribal",
+        "religion": "xhazobkult",
+        "main_culture": "sandfang_gnoll",
+        "total_development": "97"
     },
     {
         "Tag": "F37",
-        "Development": "78",
-        "country_name": " Irrliam",
-        "government": "2",
-        "primary_culture": "sun_elf",
-        "religion": "bulwari_sun_cult"
+        "country_name": "Irrliam",
+        "government": "monarchy",
+        "religion": "bulwari_sun_cult",
+        "main_culture": "sun_elf",
+        "total_development": "78"
     },
     {
         "Tag": "F46",
-        "Development": "65",
-        "country_name": " Jaddari",
-        "government": "1",
-        "primary_culture": "desert_elf",
-        "religion": "the_jadd"
+        "country_name": "Jaddari",
+        "government": "tribal",
+        "religion": "the_jadd",
+        "main_culture": "desert_elf",
+        "total_development": "65"
     },
     {
         "Tag": "F60",
-        "Development": "62",
-        "country_name": " Samsumbat",
-        "government": "1",
-        "primary_culture": "tijarikheti",
-        "religion": "nirakhetist"
+        "country_name": "Samsumbat",
+        "government": "republic",
+        "religion": "nirakhetist",
+        "main_culture": "tijarikheti",
+        "total_development": "62"
     },
     {
         "Tag": "F61",
-        "Development": "68",
-        "country_name": " Muhaqaar",
-        "government": "1",
-        "primary_culture": "tijarikheti",
-        "religion": "elikhetist"
+        "country_name": "Muhaqaar",
+        "government": "theocracy",
+        "religion": "elikhetist",
+        "main_culture": "tijarikheti",
+        "total_development": "68"
     },
     {
         "Tag": "F65",
-        "Development": "146",
-        "country_name": " Tzilekal",
-        "government": "1",
-        "primary_culture": "windhowler_gnoll",
-        "religion": "xhazobkult"
+        "country_name": "Tzilekal",
+        "government": "tribal",
+        "religion": "xhazobkult",
+        "main_culture": "windhowler_gnoll",
+        "total_development": "146"
     },
     {
         "Tag": "F69",
-        "Development": "94",
-        "country_name": " Irkorzik",
-        "government": "1",
-        "primary_culture": "windhowler_gnoll",
-        "religion": "kvangahga"
+        "country_name": "Irkorzik",
+        "government": "tribal",
+        "religion": "kvangahga",
+        "main_culture": "windhowler_gnoll",
+        "total_development": "94"
     },
     {
         "Tag": "F71",
-        "Development": "68",
-        "country_name": " Rakkaz",
-        "government": "1",
-        "primary_culture": "fieldstalker_gnoll",
-        "religion": "xhazobkult"
+        "country_name": "Rakkaz",
+        "government": "tribal",
+        "religion": "xhazobkult",
+        "main_culture": "fieldstalker_gnoll",
+        "total_development": "68"
     },
     {
         "Tag": "F72",
-        "Development": "122",
-        "country_name": " Haraagtseda",
-        "government": "1",
-        "primary_culture": "fieldstalker_gnoll",
-        "religion": "kvangahga"
+        "country_name": "Haraagtseda",
+        "government": "tribal",
+        "religion": "kvangahga",
+        "main_culture": "fieldstalker_gnoll",
+        "total_development": "122"
     },
     {
         "Tag": "G21",
-        "Development": "59",
-        "country_name": " Pomvasonn",
-        "government": "1",
-        "primary_culture": "rzentur",
-        "religion": "drozma_tur"
+        "country_name": "Pomvasonn",
+        "government": "monarchy #Previously Pomvasson",
+        "religion": "drozma_tur",
+        "main_culture": "rzentur",
+        "total_development": "59"
     },
     {
         "Tag": "G46",
-        "Development": "72",
-        "country_name": " Degakheion",
-        "government": "1",
-        "primary_culture": "degabhen",
-        "religion": "kheionism"
+        "country_name": "Degakheion",
+        "government": "republic",
+        "religion": "kheionism",
+        "main_culture": "degabhen",
+        "total_development": "72"
     },
     {
         "Tag": "G47",
-        "Development": "76",
-        "country_name": " Oktikheion",
-        "government": "1",
-        "primary_culture": "oktibhen",
-        "religion": "kheionism"
+        "country_name": "Oktikheion",
+        "government": "republic",
+        "religion": "kheionism",
+        "main_culture": "oktibhen",
+        "total_development": "76"
     },
     {
         "Tag": "G50",
-        "Development": "56",
-        "country_name": " Ormam",
-        "government": "1",
-        "primary_culture": "ormabhen",
-        "religion": "kheionism"
+        "country_name": "Ormam",
+        "government": "republic",
+        "religion": "kheionism",
+        "main_culture": "ormabhen",
+        "total_development": "56"
     },
     {
         "Tag": "G52",
-        "Development": "100",
-        "country_name": " Ameion",
-        "government": "1",
-        "primary_culture": "ambhen",
-        "religion": "kheionism"
+        "country_name": "Ameion",
+        "government": "republic",
+        "religion": "kheionism",
+        "main_culture": "ambhen",
+        "total_development": "100"
     },
     {
         "Tag": "G60",
-        "Development": "71",
-        "country_name": " Eltikan",
-        "government": "1",
-        "primary_culture": "eltibhar",
-        "religion": "gotiriei"
+        "country_name": "Eltikan",
+        "government": "tribal",
+        "religion": "gotiriei",
+        "main_culture": "eltibhar",
+        "total_development": "71"
     },
     {
         "Tag": "G64",
-        "Development": "85",
-        "country_name": " Larankar",
-        "government": "2",
-        "primary_culture": "larankarha",
-        "religion": "gods_of_the_taychend"
+        "country_name": "Larankar",
+        "government": "monarchy",
+        "religion": "gods_of_the_taychend",
+        "main_culture": "larankarha",
+        "total_development": "85"
     },
     {
         "Tag": "H72",
-        "Development": "63",
-        "country_name": " Shattered Crown",
-        "government": "1",
-        "primary_culture": "highhold_orc",
-        "religion": "old_dookan"
+        "country_name": "Shattered Crown",
+        "government": "tribal",
+        "religion": "old_dookan",
+        "main_culture": "highhold_orc",
+        "total_development": "63"
     },
     {
         "Tag": "I26",
-        "Development": "55",
-        "country_name": " Salla Elyn",
-        "government": "1",
-        "primary_culture": "wood_elf",
-        "religion": "fey_court"
+        "country_name": "Salla Elyn",
+        "government": "tribal",
+        "religion": "fey_court",
+        "main_culture": "wood_elf",
+        "total_development": "55"
     },
     {
         "Tag": "I43",
-        "Development": "57",
-        "country_name": " Silentblade Clan",
-        "government": "1",
-        "primary_culture": "green_orc",
-        "religion": "great_dookan"
+        "country_name": "Silentblade Clan",
+        "government": "tribal",
+        "religion": "great_dookan",
+        "main_culture": "green_orc",
+        "total_development": "57"
     },
     {
         "Tag": "I57",
-        "Development": "56",
-        "country_name": " Golden Tremor",
-        "government": "1",
-        "primary_culture": "plain_centaur",
-        "religion": "irdaeos_worship"
+        "country_name": "Golden Tremor",
+        "government": "tribal",
+        "religion": "irdaeos_worship",
+        "main_culture": "plain_centaur",
+        "total_development": "56"
     },
     {
         "Tag": "I78",
-        "Development": "134",
-        "country_name": " Wild Hunt",
+        "country_name": "Wild Hunt",
         "government": "tribal",
-        "primary_culture": "plain_centaur",
-        "religion": "irdaeos_worship"
+        "religion": "irdaeos_worship",
+        "main_culture": "plain_centaur",
+        "total_development": "134"
     },
     {
         "Tag": "I80",
-        "Development": "50",
-        "country_name": " Great Storm",
-        "government": "1",
-        "primary_culture": "plain_centaur",
-        "religion": "irdaeos_worship"
+        "country_name": "Great Storm",
+        "government": "tribal",
+        "religion": "irdaeos_worship",
+        "main_culture": "plain_centaur",
+        "total_development": "50"
     },
     {
         "Tag": "L01",
-        "Development": "86",
-        "country_name": " Kuiika",
-        "government": "1",
-        "primary_culture": "kuivanhi",
-        "religion": "noukahi_pantheon"
+        "country_name": "Kuiika",
+        "government": "republic",
+        "religion": "noukahi_pantheon",
+        "main_culture": "kuivanhi",
+        "total_development": "86"
     },
     {
         "Tag": "L03",
-        "Development": "54",
-        "country_name": " Isagumze",
-        "government": "1",
-        "primary_culture": "ikilshebe",
-        "religion": "noukahi_pantheon"
+        "country_name": "Isagumze",
+        "government": "republic",
+        "religion": "noukahi_pantheon",
+        "main_culture": "ikilshebe",
+        "total_development": "54"
     },
     {
         "Tag": "L04",
-        "Development": "52",
-        "country_name": " Saqraxat",
-        "government": "1",
-        "primary_culture": "kudemtu",
-        "religion": "elikhetist"
+        "country_name": "Saqraxat",
+        "government": "republic",
+        "religion": "elikhetist",
+        "main_culture": "kudemtu",
+        "total_development": "52"
     },
     {
         "Tag": "L05",
-        "Development": "65",
-        "country_name": " Iqhekabi",
-        "government": "1",
-        "primary_culture": "gumzemo",
-        "religion": "noukahi_pantheon"
+        "country_name": "Iqhekabi",
+        "government": "republic",
+        "religion": "noukahi_pantheon",
+        "main_culture": "gumzemo",
+        "total_development": "65"
     },
     {
         "Tag": "L08",
-        "Development": "77",
-        "country_name": " Kulugiash",
-        "government": "1",
-        "primary_culture": "kudemtu",
-        "religion": "noukahi_pantheon"
+        "country_name": "Kulugiash",
+        "government": "republic",
+        "religion": "noukahi_pantheon",
+        "main_culture": "kudemtu",
+        "total_development": "77"
     },
     {
         "Tag": "L09",
-        "Development": "63",
-        "country_name": " Zuvavim",
-        "government": "2",
-        "primary_culture": "zuvunwa",
-        "religion": "noukahi_pantheon"
+        "country_name": "Zuvavim",
+        "government": "republic",
+        "religion": "noukahi_pantheon",
+        "main_culture": "zuvunwa",
+        "total_development": "63"
     },
     {
         "Tag": "L10",
-        "Development": "59",
-        "country_name": " Kunolo",
-        "government": "2",
-        "primary_culture": "jiromji",
-        "religion": "fangaulan_pantheon"
+        "country_name": "Kunolo",
+        "government": "republic",
+        "religion": "fangaulan_pantheon",
+        "main_culture": "jiromji",
+        "total_development": "59"
     },
     {
         "Tag": "L13",
-        "Development": "64",
-        "country_name": " Samishesha",
-        "government": "1",
-        "primary_culture": "mantimatu",
-        "religion": "elikhetist"
+        "country_name": "Samishesha",
+        "government": "republic",
+        "religion": "elikhetist",
+        "main_culture": "mantimatu",
+        "total_development": "64"
     },
     {
         "Tag": "L14",
-        "Development": "78",
-        "country_name": " Negefaama",
-        "government": "2",
-        "primary_culture": "tamajoba",
-        "religion": "fangaulan_pantheon"
+        "country_name": "Negefaama",
+        "government": "republic",
+        "religion": "fangaulan_pantheon",
+        "main_culture": "tamajoba",
+        "total_development": "78"
     },
     {
         "Tag": "L16",
-        "Development": "81",
-        "country_name": " Ndurubu",
-        "government": "2",
-        "primary_culture": "ndurubu",
-        "religion": "fangaulan_pantheon"
+        "country_name": "Ndurubu",
+        "government": "tribal",
+        "religion": "fangaulan_pantheon",
+        "main_culture": "ndurubu",
+        "total_development": "81"
     },
     {
         "Tag": "L22",
-        "Development": "97",
-        "country_name": " Binwarji",
-        "government": "2",
-        "primary_culture": "binwarji",
-        "religion": "fangaulan_pantheon"
+        "country_name": "Binwarji",
+        "government": "monarchy",
+        "religion": "fangaulan_pantheon",
+        "main_culture": "binwarji",
+        "total_development": "97"
     },
     {
         "Tag": "L37",
-        "Development": "51",
-        "country_name": " Mihitarab",
-        "government": "2",
-        "primary_culture": "fomarati",
-        "religion": "nakavy_avo"
+        "country_name": "Mihitarab",
+        "government": "tribal",
+        "religion": "nakavy_avo",
+        "main_culture": "fomarati",
+        "total_development": "51"
     },
     {
         "Tag": "L66",
-        "Development": "89",
-        "country_name": " Simegasa",
-        "government": "1",
-        "primary_culture": "ofehibi",
-        "religion": "shadow_pact"
+        "country_name": "Simegasa",
+        "government": "monarchy",
+        "religion": "shadow_pact",
+        "main_culture": "ofehibi",
+        "total_development": "89"
     },
     {
         "Tag": "L67",
-        "Development": "61",
-        "country_name": " Kidsit Yiti",
-        "government": "1",
-        "primary_culture": "sitewosi",
-        "religion": "sky_domain"
+        "country_name": "Kidsit Yiti",
+        "government": "tribal",
+        "religion": "sky_domain",
+        "main_culture": "sitewosi",
+        "total_development": "61"
     },
     {
         "Tag": "L68",
-        "Development": "103",
-        "country_name": " Karassk",
-        "government": "2",
-        "primary_culture": "shagashay_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Karassk",
+        "government": "monarchy",
+        "religion": "anzalkatsa",
+        "main_culture": "shagashay_lizardfolk",
+        "total_development": "103"
     },
     {
         "Tag": "L70",
-        "Development": "64",
-        "country_name": " Khugra",
-        "government": "2",
-        "primary_culture": "shagatyn_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Khugra",
+        "government": "monarchy",
+        "religion": "anzalkatsa",
+        "main_culture": "shagatyn_lizardfolk",
+        "total_development": "64"
     },
     {
         "Tag": "L71",
-        "Development": "85",
-        "country_name": " Nazhni",
-        "government": "2",
-        "primary_culture": "skarakara_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Nazhni",
+        "government": "monarchy",
+        "religion": "anzalkatsa",
+        "main_culture": "skarakara_lizardfolk",
+        "total_development": "85"
     },
     {
         "Tag": "L72",
-        "Development": "68",
-        "country_name": " Zatsuti",
-        "government": "1",
-        "primary_culture": "arraskay_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Zatsuti",
+        "government": "tribal",
+        "religion": "anzalkatsa",
+        "main_culture": "arraskay_lizardfolk",
+        "total_development": "68"
     },
     {
         "Tag": "L80",
-        "Development": "76",
-        "country_name": " Zulbur",
-        "government": "1",
-        "primary_culture": "ashhana_lizardfolk",
-        "religion": "zaradyrra"
+        "country_name": "Zulbur",
+        "government": "tribal",
+        "religion": "zaradyrra",
+        "main_culture": "ashhana_lizardfolk",
+        "total_development": "76"
     },
     {
         "Tag": "L81",
-        "Development": "70",
-        "country_name": " Yassa",
-        "government": "2",
-        "primary_culture": "mashkay_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Yassa",
+        "government": "monarchy",
+        "religion": "anzalkatsa",
+        "main_culture": "mashkay_lizardfolk",
+        "total_development": "70"
     },
     {
         "Tag": "L84",
-        "Development": "63",
-        "country_name": " Shalazar",
-        "government": "2",
-        "primary_culture": "rhada_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Shalazar",
+        "government": "monarchy",
+        "religion": "anzalkatsa",
+        "main_culture": "rhada_lizardfolk",
+        "total_development": "63"
     },
     {
         "Tag": "L95",
-        "Development": "182",
-        "country_name": " Rayaz",
-        "government": "1",
-        "primary_culture": "arraskay_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Rayaz",
+        "government": "tribal",
+        "religion": "anzalkatsa",
+        "main_culture": "arraskay_lizardfolk",
+        "total_development": "182"
     },
     {
         "Tag": "L96",
-        "Development": "55",
-        "country_name": " Asarta",
-        "government": "1",
-        "primary_culture": "arraskay_lizardfolk",
-        "religion": "anzalkatsa"
+        "country_name": "Asarta",
+        "government": "tribal",
+        "religion": "anzalkatsa",
+        "main_culture": "arraskay_lizardfolk",
+        "total_development": "55"
     },
     {
         "Tag": "R01",
-        "Development": "69",
-        "country_name": " Avhavubhiya",
-        "government": "1",
-        "primary_culture": "raghamidesh",
-        "religion": "high_philosophy"
+        "country_name": "Avhavubhiya",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "raghamidesh",
+        "total_development": "69"
     },
     {
         "Tag": "R02",
-        "Development": "70",
-        "country_name": " Sarkhashabid",
-        "government": "1",
-        "primary_culture": "raghamidesh",
-        "religion": "high_philosophy"
+        "country_name": "Sarkhashabid",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "raghamidesh",
+        "total_development": "70"
     },
     {
         "Tag": "R04",
-        "Development": "76",
-        "country_name": " Iyarhashar",
-        "government": "1",
-        "primary_culture": "raghamidesh",
-        "religion": "high_philosophy"
+        "country_name": "Iyarhashar",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "raghamidesh",
+        "total_development": "76"
     },
     {
         "Tag": "R07",
-        "Development": "161",
-        "country_name": " Rajnadhaga",
-        "government": "2",
-        "primary_culture": "shandibad",
-        "religion": "high_philosophy"
+        "country_name": "Rajnadhaga",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "shandibad",
+        "total_development": "161"
     },
     {
         "Tag": "R10",
-        "Development": "53",
-        "country_name": " Sarnavan",
-        "government": "2",
-        "primary_culture": "royal_harimari",
-        "religion": "high_philosophy"
+        "country_name": "Sarnavan",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "royal_harimari",
+        "total_development": "53"
     },
     {
         "Tag": "R38",
-        "Development": "181",
-        "country_name": " Bhuvauri",
-        "government": "2",
-        "primary_culture": "sarniryabsad",
-        "religion": "high_philosophy"
+        "country_name": "Bhuvauri",
+        "government": "republic",
+        "religion": "high_philosophy",
+        "main_culture": "sarniryabsad",
+        "total_development": "181"
     },
     {
         "Tag": "R41",
-        "Development": "59",
-        "country_name": " Amtujsaat",
-        "government": "1",
-        "primary_culture": "royal_harimari",
-        "religion": "high_philosophy"
+        "country_name": "Amtujsaat",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "royal_harimari",
+        "total_development": "59"
     },
     {
         "Tag": "R51",
-        "Development": "72",
-        "country_name": " Dhenijanraj",
-        "government": "3",
-        "primary_culture": "royal_harimari",
-        "religion": "high_philosophy"
+        "country_name": "Dhenijanraj",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "royal_harimari",
+        "total_development": "72"
     },
     {
         "Tag": "R62",
-        "Development": "478",
-        "country_name": " Hobgoblin Command",
-        "government": "3",
-        "primary_culture": "wolf_command",
-        "religion": "godlost"
+        "country_name": "Hobgoblin Command",
+        "government": "monarchy",
+        "religion": "godlost",
+        "main_culture": "wolf_command",
+        "total_development": "478"
     },
     {
         "Tag": "R65",
-        "Development": "52",
-        "country_name": " Blackstep",
-        "government": "1",
-        "primary_culture": "undergrowth_goblin",
-        "religion": "goblinic_shamanism"
+        "country_name": "Blackstep",
+        "government": "tribal",
+        "religion": "goblinic_shamanism",
+        "main_culture": "undergrowth_goblin",
+        "total_development": "52"
     },
     {
         "Tag": "S17",
-        "Development": "122",
-        "country_name": " Baddabi",
-        "government": "2",
-        "primary_culture": "suhratbi",
-        "religion": "rinta_seekers"
+        "country_name": "Baddabi",
+        "government": "monarchy",
+        "religion": "rinta_seekers",
+        "main_culture": "suhratbi",
+        "total_development": "122"
     },
     {
         "Tag": "S18",
-        "Development": "126",
-        "country_name": " Beeragga",
-        "government": "2",
-        "primary_culture": "dhebiji",
-        "religion": "rinta_seekers"
+        "country_name": "Beeragga",
+        "government": "monarchy",
+        "religion": "rinta_seekers",
+        "main_culture": "dhebiji",
+        "total_development": "126"
     },
     {
         "Tag": "S19",
-        "Development": "96",
-        "country_name": " Weggabiga",
-        "government": "2",
-        "primary_culture": "dhebiji",
-        "religion": "rinta_seekers"
+        "country_name": "Weggabiga",
+        "government": "monarchy",
+        "religion": "rinta_seekers",
+        "main_culture": "dhebiji",
+        "total_development": "96"
     },
     {
         "Tag": "S20",
-        "Development": "65",
-        "country_name": " Dadubakha",
-        "government": "1",
-        "primary_culture": "ashamadi",
-        "religion": "rinta_seekers"
+        "country_name": "Dadubakha",
+        "government": "monarchy",
+        "religion": "rinta_seekers",
+        "main_culture": "ashamadi",
+        "total_development": "65"
     },
     {
         "Tag": "S21",
-        "Development": "61",
-        "country_name": " Gawakhiza",
-        "government": "1",
-        "primary_culture": "ashamadi",
-        "religion": "rinta_seekers"
+        "country_name": "Gawakhiza",
+        "government": "monarchy",
+        "religion": "rinta_seekers",
+        "main_culture": "ashamadi",
+        "total_development": "61"
     },
     {
         "Tag": "S70",
-        "Development": "232",
-        "country_name": " Yezel Mora",
-        "government": "1",
-        "primary_culture": "swamp_troll",
-        "religion": "night_coven"
+        "country_name": "Yezel Mora",
+        "government": "theocracy",
+        "religion": "night_coven",
+        "main_culture": "swamp_troll",
+        "total_development": "232"
     },
     {
         "Tag": "U01",
-        "Development": "174",
-        "country_name": " Kheterata",
-        "government": "3",
-        "primary_culture": "hapremiti",
-        "religion": "elikhetist"
+        "country_name": "Kheterata",
+        "government": "monarchy",
+        "religion": "elikhetist",
+        "main_culture": "hapremiti",
+        "total_development": "174"
     },
     {
         "Tag": "U02",
-        "Development": "87",
-        "country_name": " Nirat",
-        "government": "1",
-        "primary_culture": "hapremiti",
-        "religion": "nirakhetist"
+        "country_name": "Nirat",
+        "government": "theocracy",
+        "religion": "nirakhetist",
+        "main_culture": "hapremiti",
+        "total_development": "87"
     },
     {
         "Tag": "U05",
-        "Development": "180",
-        "country_name": " Elizna",
-        "government": "2",
-        "primary_culture": "sun_elf",
-        "religion": "bulwari_sun_cult"
+        "country_name": "Elizna",
+        "government": "monarchy",
+        "religion": "bulwari_sun_cult",
+        "main_culture": "sun_elf",
+        "total_development": "180"
     },
     {
         "Tag": "U06",
-        "Development": "94",
-        "country_name": " Deshak",
-        "government": "2",
-        "primary_culture": "desha",
-        "religion": "mother_akasik"
+        "country_name": "Deshak",
+        "government": "monarchy",
+        "religion": "mother_akasik",
+        "main_culture": "desha",
+        "total_development": "94"
     },
     {
         "Tag": "U07",
-        "Development": "135",
-        "country_name": " Viakkoc",
-        "government": "2",
-        "primary_culture": "seascourge_gnoll",
-        "religion": "xhazobkult"
+        "country_name": "Viakkoc",
+        "government": "tribal",
+        "religion": "xhazobkult",
+        "main_culture": "seascourge_gnoll",
+        "total_development": "135"
     },
     {
         "Tag": "U09",
-        "Development": "192",
-        "country_name": " Gnollakaz",
-        "government": "2",
-        "primary_culture": "pyreclaw_gnoll",
-        "religion": "xhazobkult"
+        "country_name": "Gnollakaz",
+        "government": "tribal",
+        "religion": "xhazobkult",
+        "main_culture": "pyreclaw_gnoll",
+        "total_development": "192"
     },
     {
         "Tag": "U12",
-        "Development": "52",
-        "country_name": " Oubbligschild Clan",
-        "government": "1",
-        "primary_culture": "forest_goblin",
-        "religion": "pactseeker"
+        "country_name": "Oubbligschild Clan",
+        "government": "tribal",
+        "religion": "pactseeker",
+        "main_culture": "forest_goblin",
+        "total_development": "52"
     },
     {
         "Tag": "U15",
-        "Development": "74",
-        "country_name": " Marble Head Clan",
-        "government": "1",
-        "primary_culture": "exodus_goblin",
-        "religion": "goblinic_shamanism"
+        "country_name": "Marble Head Clan",
+        "government": "tribal",
+        "religion": "goblinic_shamanism",
+        "main_culture": "exodus_goblin",
+        "total_development": "74"
     },
     {
         "Tag": "V01",
-        "Development": "124",
-        "country_name": " Oinukhudi",
-        "government": "2",
-        "primary_culture": "oinukhudi",
-        "religion": "un_khudai"
+        "country_name": "Oinukhudi",
+        "government": "tribal",
+        "religion": "un_khudai",
+        "main_culture": "oinukhudi",
+        "total_development": "124"
     },
     {
         "Tag": "Y01",
-        "Development": "120",
-        "country_name": " Azjakuma",
-        "government": "2",
-        "primary_culture": "horned_ogre",
-        "religion": "devouring_path"
+        "country_name": "Azjakuma",
+        "government": "theocracy",
+        "religion": "devouring_path",
+        "main_culture": "horned_ogre",
+        "total_development": "120"
     },
     {
         "Tag": "Y02",
-        "Development": "73",
-        "country_name": " Jinqiu",
-        "government": "2",
-        "primary_culture": "jiangszun",
-        "religion": "devouring_path"
+        "country_name": "Jinqiu",
+        "government": "republic",
+        "religion": "devouring_path",
+        "main_culture": "jiangszun",
+        "total_development": "73"
     },
     {
         "Tag": "Y05",
-        "Development": "80",
-        "country_name": " Lanjinhui",
-        "government": "1",
-        "primary_culture": "jiangszun",
-        "religion": "accretive_path"
+        "country_name": "Lanjinhui",
+        "government": "republic",
+        "religion": "accretive_path",
+        "main_culture": "jiangszun",
+        "total_development": "80"
     },
     {
         "Tag": "Y09",
-        "Development": "159",
-        "country_name": " Bianfang",
-        "government": "2",
-        "primary_culture": "jiangszun",
-        "religion": "high_philosophy"
+        "country_name": "Bianfang",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "jiangszun",
+        "total_development": "159"
     },
     {
         "Tag": "Y15",
-        "Development": "57",
-        "country_name": " Beikdugang",
-        "government": "1",
-        "primary_culture": "jiangyang",
-        "religion": "accretive_path"
+        "country_name": "Beikdugang",
+        "government": "republic",
+        "religion": "accretive_path",
+        "main_culture": "jiangyang",
+        "total_development": "57"
     },
     {
         "Tag": "Y16",
-        "Development": "55",
-        "country_name": " Jiantsiang",
-        "government": "1",
-        "primary_culture": "serene_harimari",
-        "religion": "high_philosophy"
+        "country_name": "Jiantsiang",
+        "government": "republic",
+        "religion": "high_philosophy",
+        "main_culture": "serene_harimari",
+        "total_development": "55"
     },
     {
         "Tag": "Y19",
-        "Development": "61",
-        "country_name": " Tianlou",
-        "government": "1",
-        "primary_culture": "jiangszun",
-        "religion": "high_philosophy"
+        "country_name": "Tianlou",
+        "government": "republic",
+        "religion": "high_philosophy",
+        "main_culture": "jiangszun",
+        "total_development": "61"
     },
     {
         "Tag": "Y20",
-        "Development": "61",
-        "country_name": " Feiten",
-        "government": "1",
-        "primary_culture": "gangim",
-        "religion": "high_philosophy"
+        "country_name": "Feiten",
+        "government": "republic",
+        "religion": "high_philosophy",
+        "main_culture": "gangim",
+        "total_development": "61"
     },
     {
         "Tag": "Y51",
-        "Development": "115",
-        "country_name": " Bim Lau",
-        "government": "2",
-        "primary_culture": "ranilau",
-        "religion": "high_philosophy"
+        "country_name": "Bim Lau",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "ranilau",
+        "total_development": "115"
     },
     {
         "Tag": "Y52",
-        "Development": "55",
-        "country_name": " Sempherong",
-        "government": "1",
-        "primary_culture": "chengrong",
-        "religion": "high_philosophy"
+        "country_name": "Sempherong",
+        "government": "republic",
+        "religion": "high_philosophy",
+        "main_culture": "chengrong",
+        "total_development": "55"
     },
     {
         "Tag": "Y53",
-        "Development": "61",
-        "country_name": " Prukakhin",
-        "government": "1",
-        "primary_culture": "biengdi",
-        "religion": "high_philosophy"
+        "country_name": "Prukakhin",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "biengdi",
+        "total_development": "61"
     },
     {
         "Tag": "Y55",
-        "Development": "79",
-        "country_name": " Khabtei Teleni",
-        "government": "2",
-        "primary_culture": "biengdi",
-        "religion": "high_philosophy"
+        "country_name": "Khabtei Teleni",
+        "government": "republic",
+        "religion": "high_philosophy",
+        "main_culture": "biengdi",
+        "total_development": "79"
     },
     {
         "Tag": "Y58",
-        "Development": "68",
-        "country_name": " Lot Dekkhang",
-        "government": "2",
-        "primary_culture": "teplin",
-        "religion": "high_philosophy"
+        "country_name": "Lot Dekkhang",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "teplin",
+        "total_development": "68"
     },
     {
         "Tag": "Y64",
-        "Development": "94",
-        "country_name": " Pinghoi",
-        "government": "2",
-        "primary_culture": "naamjyut",
-        "religion": "transmutative_path"
+        "country_name": "Pinghoi",
+        "government": "republic",
+        "religion": "transmutative_path",
+        "main_culture": "naamjyut",
+        "total_development": "94"
     },
     {
         "Tag": "Y65",
-        "Development": "111",
-        "country_name": " Arawkelin",
-        "government": "2",
-        "primary_culture": "kelino",
-        "religion": "high_philosophy"
+        "country_name": "Arawkelin",
+        "government": "monarchy",
+        "religion": "high_philosophy",
+        "main_culture": "kelino",
+        "total_development": "111"
     },
     {
         "Tag": "Y71",
-        "Development": "87",
-        "country_name": " Kudet Kai",
-        "government": "2",
-        "primary_culture": "bokai",
-        "religion": "transmutative_path"
+        "country_name": "Kudet Kai",
+        "government": "republic",
+        "religion": "transmutative_path",
+        "main_culture": "bokai",
+        "total_development": "87"
     },
     {
         "Tag": "Y72",
-        "Development": "77",
-        "country_name": " Chien Binhrung",
-        "government": "2",
-        "primary_culture": "binhrung",
-        "religion": "transmutative_path"
+        "country_name": "Chien Binhrung",
+        "government": "monarchy",
+        "religion": "transmutative_path",
+        "main_culture": "binhrung",
+        "total_development": "77"
     },
     {
         "Tag": "Y91",
-        "Development": "73",
-        "country_name": " Nuugdan Tsarai",
-        "government": "2",
-        "primary_culture": "shuvuush",
-        "religion": "saanorgegh"
+        "country_name": "Nuugdan Tsarai",
+        "government": "tribal",
+        "religion": "saanorgegh",
+        "main_culture": "shuvuush",
+        "total_development": "73"
     },
     {
         "Tag": "Y93",
-        "Development": "200",
-        "country_name": " Daengun",
-        "government": "2",
-        "primary_culture": "sangsogha",
-        "religion": "bangujonsi"
+        "country_name": "Daengun",
+        "government": "monarchy",
+        "religion": "bangujonsi",
+        "main_culture": "sangsogha",
+        "total_development": "200"
     },
     {
         "Tag": "Y97",
-        "Development": "148",
-        "country_name": " Baihon Xinh",
-        "government": "2",
-        "primary_culture": "khom",
-        "religion": "transmutative_path"
+        "country_name": "Baihon Xinh",
+        "government": "monarchy",
+        "religion": "transmutative_path",
+        "main_culture": "khom",
+        "total_development": "148"
     },
     {
         "Tag": "Z08",
-        "Development": "112",
-        "country_name": " Bjarnrik",
-        "government": "2",
-        "primary_culture": "east_dalr",
-        "religion": "skaldhyrric_faith"
+        "country_name": "Bjarnrik",
+        "government": "monarchy",
+        "religion": "skaldhyrric_faith",
+        "main_culture": "east_dalr",
+        "total_development": "112"
     },
     {
         "Tag": "Z18",
-        "Development": "90",
-        "country_name": " Frozenmaw",
-        "government": "2",
-        "primary_culture": "gray_orc",
-        "religion": "old_dookan"
+        "country_name": "Frozenmaw",
+        "government": "tribal",
+        "religion": "old_dookan",
+        "main_culture": "gray_orc",
+        "total_development": "90"
     }
 ]

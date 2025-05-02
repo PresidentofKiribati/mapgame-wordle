@@ -12,6 +12,15 @@ body {
     gap:10px
 }
 
+.guessgridHOI {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    background-color: gray;
+    text-align: center;
+    justify-content: center;
+    gap:10px
+}
+
 .guessblock {
     display:flexbox;
     margin:10px;

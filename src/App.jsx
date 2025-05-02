@@ -1,4 +1,5 @@
 import React from 'react';
+import { useState } from 'react';
 import Game from '../logic/Game';
 import {Menubar} from 'primereact/menubar'
 import "../src/App.css"
@@ -11,19 +12,20 @@ const Menu = ({items}) => {
 }
 
 function App() {
+  const[pickedGame, setPickedGame] = useState("EU4");
 
   const menuitems = [
     {
       label:"EU4",  
-      command: () => alert("EU4")
+      command: () => setPickedGame("EU4")
     },
     {
       label:"Anbennar",  
-      command: () => alert("Anbennar")
+      command: () => setPickedGame("ANBENNAR")
     },
     {
       label:"HOI4",  
-      command: () => alert("HOI4")
+      command: () => setPickedGame("HOI4")
     },
     {
       label:"Scoreboard",  
@@ -37,7 +39,7 @@ function App() {
     <div>
       <Menu items={menuitems}/>
       <h1>EU4 hoi4 wordle</h1>
-      <Game />
+      <Game pickedTitle={pickedGame}/>
     </div>
   );
 }
