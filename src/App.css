@@ -1,5 +1,25 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(120deg, #1e3c72, #2a5298);
+    color:white;
+    margin:0;
+    padding:0;
+    min-height: 100vh;
+}
+
+input {
+    padding:10px;
+    font-size: 1rem;
+    border-radius: 8px;
+    border:none;
+    margin-top: 10px;
+    width: 60%;
+    max-width: 400px;
+}
+
+form {
+    margin: 20px auto;
+    text-align: center;
 }
 
 
@@ -9,7 +29,7 @@ body {
     background-color: gray;
     text-align: center;
     justify-content: center;
-    gap:10px
+    gap:10px;
 }
 
 .guessgridHOI {
@@ -21,24 +41,49 @@ body {
     gap:10px
 }
 
+.guessgrid img {
+    width: 40px;
+    height: 40px;
+    display: auto;
+    margin: auto;
+    padding: auto;
+    align-items: center;
+}
+
 .guessblock {
     display:flexbox;
+    background-color: rgba(255,255,255,0.1);
     margin:10px;
     text-transform: uppercase;
     text-align: center;
     grid-template-columns: auto;
     border:2px solid red;
-    border-radius: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.guessblock:hover {
+    background-color: rgba(0,0,0,0.25);
+    transition: 0.5s;
 }
 
 .guessblock2 {
     display:flexbox;
+    background-color: rgba(255,255,255,0.1);
     margin:10px;
     text-transform: uppercase;
     text-align: center;
     grid-template-columns: auto;
     border:2px solid green;
-    border-radius: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.guessblock2:hover {
+    background-color: rgba(0,0,0,0.25);
+    transition: 0.5s;
 }
 
 .guessblockhigher {
@@ -49,6 +94,12 @@ body {
     grid-template-columns: auto;
     border:2px solid white;
     border-radius: 5px;
+    padding: 10px;
+}
+
+.guessblockhigher:hover {
+    background-color: rgba(0,0,0,0.25);
+    transition: 0.5s;
 }
 
 .guessblocklower {
@@ -59,6 +110,11 @@ body {
     grid-template-columns: auto;
     border:2px solid black;
     border-radius: 5px;
+}
+
+.guessblocklower:hover {
+    background-color: rgba(0,0,0,0.25);
+    transition: 0.5s;
 }
 
 .winpopup {
