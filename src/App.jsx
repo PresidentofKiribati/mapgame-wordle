@@ -3,6 +3,10 @@ import { useState } from 'react';
 import Game from '../logic/Game';
 import {Menubar} from 'primereact/menubar'
 import "../src/App.css"
+import Scoreboard from '../logic/Scoreboard';
+
+
+
 
 
 const Menu = ({items}) => {
@@ -13,23 +17,41 @@ const Menu = ({items}) => {
 
 function App() {
   const[pickedGame, setPickedGame] = useState("EU4");
+  const[showScoreboard, setShowScoreboard] = useState(false);
+  const[showGame, setShowGame] = useState(false);
+
 
   const menuitems = [
     {
       label:"EU4",  
-      command: () => setPickedGame("EU4")
+      command: () => {
+        setShowGame(true)
+        setPickedGame("EU4")
+        setShowScoreboard(false)
+      }
     },
     {
       label:"Anbennar",  
-      command: () => setPickedGame("ANBENNAR")
+      command: () => {
+        setShowGame(true)
+        setPickedGame("ANBENNAR")
+        setShowScoreboard(false)
+      }
     },
     {
       label:"HOI4",  
-      command: () => setPickedGame("HOI4")
+      command: () => {
+        setShowGame(true)
+        setPickedGame("HOI4")
+        setShowScoreboard(false)
+      }
     },
     {
       label:"Scoreboard",  
-      command: () => alert("Scoreboard")
+      command: () => {
+        setShowGame(false)
+        setShowScoreboard(true)
+      }
     }
   ]
 
@@ -39,7 +61,8 @@ function App() {
     <div>
       <Menu items={menuitems}/>
       <h1>EU4 hoi4 wordle</h1>
-      <Game pickedTitle={pickedGame}/>
+      {showGame && <Game pickedTitle={pickedGame}/>}
+      {showScoreboard && <Scoreboard/>}
     </div>
   );
 }

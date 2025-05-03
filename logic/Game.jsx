@@ -4,8 +4,29 @@ import eu4_data from "../src/data/eu4_data.json"
 import anbennar_data from "../src/data/anbennar_data.json"
 import hoi4_data from "../src/data/hoi4_data.json"
 import "../src/App.css"
+import { initializeApp } from "firebase/app";
+import { collection, getDocs, getFirestore, increment, updateDoc} from "firebase/firestore";
 
+const firebaseConfig = {
+    apiKey:import.meta.env.VITE_FIREBASE_API_KEY,
+    authDomain:import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+    projectId:import.meta.env.VITE_FIREBASE_PROJECT_ID,
+    storageBucket:import.meta.env.VITE_FIREBASE_STORAGE_BUCKET,
+    messagingSenderId:import.meta.env.VITE_FIREBASE_SENDER_ID,
+    appId:import.meta.env.VITE_FIREBASE_APP_ID,
+    measurementId:import.meta.env.VITE_FIREBASE_MEASUREMENT_ID
+};
 
+const appX = initializeApp(firebaseConfig);
+const dbX = getFirestore(appX);
+
+const sendPlayer = async (playerName) => {
+    
+    const playerRef = doc(dbX, "scoreboard", playerName)
+
+    await updateDoc(playerRef, {plays: increment(1)})
+    console.log("Incremented")
+}
 
 
 const WinPopup = ({pickedCountryName, closeWinPopUp, showpopup}) => {
@@ -19,6 +40,10 @@ const WinPopup = ({pickedCountryName, closeWinPopUp, showpopup}) => {
                     The correct country was: {pickedCountryName}
                 </p>
 
+                <form onSubmit={sendPlayer}>
+                    <label>Give name:</label>
+                </form>
+
                 <button onClick={closeWinPopUp}> Close popup and start game again</button>
             </div>
 
@@ -31,8 +56,7 @@ const HigherLowerArrow = ({value, targetValue}) => {
     var v = parseInt(value)
     var t = parseInt(targetValue)
 
-
-    if(v > t) {
+    if(v < t) {
         console.log("a")
         return (
             <img src="/images/arrowup.png"/>

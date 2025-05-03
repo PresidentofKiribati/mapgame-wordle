@@ -126,6 +126,7 @@ form {
     bottom:0;
 
     background-color: rgba(0,0,0,0.1);
+    color:black;
 
     transition: all 0.3s ease-in-out;
 
