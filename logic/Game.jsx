@@ -5,7 +5,7 @@ import anbennar_data from "../src/data/anbennar_data.json"
 import hoi4_data from "../src/data/hoi4_data.json"
 import "../src/App.css"
 import { initializeApp } from "firebase/app";
-import { collection, getDocs, getFirestore, increment, updateDoc} from "firebase/firestore";
+import {doc, getDoc, getFirestore, increment, setDoc, updateDoc} from "firebase/firestore";
 
 const firebaseConfig = {
     apiKey:import.meta.env.VITE_FIREBASE_API_KEY,
@@ -21,15 +21,26 @@ const appX = initializeApp(firebaseConfig);
 const dbX = getFirestore(appX);
 
 const sendPlayer = async (playerName) => {
-    
     const playerRef = doc(dbX, "scoreboard", playerName)
+    const playerSnap = await getDoc(playerRef)
 
-    await updateDoc(playerRef, {plays: increment(1)})
-    console.log("Incremented")
+    if(playerSnap.exists()) {
+        updateDoc(playerRef, {plays: increment(1)})
+    } else {
+        setDoc(playerRef, {plays: 1})
+        console.log("Doesnt exist")
+    }
 }
 
 
-const WinPopup = ({pickedCountryName, closeWinPopUp, showpopup}) => {
+const WinPopup = ({pickedCountryName, closeWinPopUp, showpopup, reset}) => {
+    const [playerName, setPlayerName] = useState('');
+
+    const trySubmitting = (e) => {
+        closeWinPopUp()
+        sendPlayer(playerName)
+        reset()
+    }
 
     return (
         <div className={showpopup === true ? "winpopup open" : "winpopup"}>
@@ -40,11 +51,11 @@ const WinPopup = ({pickedCountryName, closeWinPopUp, showpopup}) => {
                     The correct country was: {pickedCountryName}
                 </p>
 
-                <form onSubmit={sendPlayer}>
+                <form onSubmit={trySubmitting}>
                     <label>Give name:</label>
+                    <input type="text" value={playerName} onChange={(e) => setPlayerName(e.target.value)}></input>
+                    <button type="submit">Submit and close</button>
                 </form>
-
-                <button onClick={closeWinPopUp}> Close popup and start game again</button>
             </div>
 
         </div>
@@ -59,12 +70,18 @@ const HigherLowerArrow = ({value, targetValue}) => {
     if(v < t) {
         console.log("a")
         return (
+            <div className="guessblocklower">↓{value}↓</div>
+            /*
             <img src="/images/arrowup.png"/>
+            */
         )
     } else {
         console.log("b")
         return (
+            <div className="guessblockhigher">↑{value}↑</div>
+            /*
             <img src="/images/arrowdown.png"/>
+            */
         )
     }
 }
@@ -190,6 +207,10 @@ function Game({pickedTitle}) {
 
     
     useEffect(() => {
+        resetGame()
+    }, [pickedTitle]);
+
+    const resetGame = () => {
         setPickedCountry(pickedGame)
         setPickedCountry(getRandomCountry())
         setOldGuesses([])
@@ -197,8 +218,7 @@ function Game({pickedTitle}) {
         setGuessSuggestions([])
         setGuess('')
         setGuessesLeft(5)
-
-    }, [pickedTitle]);
+    }
     
 
     const handleKeypress = (e) => {
@@ -263,7 +283,7 @@ function Game({pickedTitle}) {
             )}
 
 
-            {openPopUp && <WinPopup pickedCountryName={pickedCountry.country_name} closeWinPopUp={() => setOpenPopUp(false)} showpopup={openPopUp}/>}
+            {openPopUp && <WinPopup pickedCountryName={pickedCountry.country_name} closeWinPopUp={() => setOpenPopUp(false)} showpopup={openPopUp} reset={resetGame}/>}
 
 
 

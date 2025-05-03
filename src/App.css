@@ -8,11 +8,12 @@ body {
 }
 
 input {
-    padding:10px;
+    padding:20px;
     font-size: 1rem;
     border-radius: 8px;
     border:none;
     margin-top: 10px;
+    margin-left: 10px;
     width: 60%;
     max-width: 400px;
 }
@@ -30,6 +31,7 @@ form {
     text-align: center;
     justify-content: center;
     gap:10px;
+    align-items: stretch;
 }
 
 .guessgridHOI {
@@ -38,7 +40,8 @@ form {
     background-color: gray;
     text-align: center;
     justify-content: center;
-    gap:10px
+    gap:10px;
+    align-items: stretch;
 }
 
 .guessgrid img {
@@ -50,69 +53,38 @@ form {
     align-items: center;
 }
 
-.guessblock {
-    display:flexbox;
-    background-color: rgba(255,255,255,0.1);
-    margin:10px;
-    text-transform: uppercase;
-    text-align: center;
-    grid-template-columns: auto;
-    border:2px solid red;
-    border-radius: 10px;
-    font-weight: bold;
-    padding: 10px;
-}
-
-.guessblock:hover {
-    background-color: rgba(0,0,0,0.25);
-    transition: 0.5s;
-}
-
-.guessblock2 {
-    display:flexbox;
-    background-color: rgba(255,255,255,0.1);
-    margin:10px;
-    text-transform: uppercase;
-    text-align: center;
-    grid-template-columns: auto;
-    border:2px solid green;
-    border-radius: 10px;
-    font-weight: bold;
-    padding: 10px;
-}
-
-.guessblock2:hover {
-    background-color: rgba(0,0,0,0.25);
-    transition: 0.5s;
-}
-
-.guessblockhigher {
-    display:flexbox;
-    margin:10px;
-    text-transform: uppercase;
-    text-align: center;
-    grid-template-columns: auto;
-    border:2px solid white;
-    border-radius: 5px;
-    padding: 10px;
-}
-
-.guessblockhigher:hover {
-    background-color: rgba(0,0,0,0.25);
-    transition: 0.5s;
-}
-
+.guessblock,
+.guessblock2,
+.guessblockhigher,
 .guessblocklower {
-    display:flexbox;
-    margin:10px;
-    text-transform: uppercase;
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    grid-template-columns: auto;
-    border:2px solid black;
-    border-radius: 5px;
+    box-sizing: border-box;
 }
 
-.guessblocklower:hover {
+.guessblockbase {
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid red;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+
+.guessblock:hover, .guessblock2:hover, .guessblockhigher:hover, .guessblocklower:hover {
     background-color: rgba(0,0,0,0.25);
     transition: 0.5s;
 }
@@ -159,6 +131,30 @@ form {
     border-radius: 10px;
     gap:10px;
     transition: opacity 0.3s ease-in-out;
+}
+
+.popupbox form input {
+    background-color: rgba(0,0,0,0.25);
+    bottom: 10px;
+    border-color: black;
+    position: flex;
+    margin: 15px;
+    width: 100%;
+}
+
+.popupbox form button {
+    background-color: rgba(0,0,0,0.1);
+    border: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    padding: 20px 15px;
+    transition-duration: 0.1s;
+}
+
+.popupbox form button:hover{
+    background-color: rgba(0,0,0,0.25);
 }
 
 .p-menubar {
