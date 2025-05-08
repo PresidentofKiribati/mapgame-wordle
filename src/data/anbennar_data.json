@@ -5,7 +5,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "lencori_half_elf",
-        "total_development": "226"
+        "total_development": 226,
+        "continent": "Cannor"
     },
     {
         "Tag": "A02",
@@ -13,7 +14,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "derannic",
-        "total_development": "114"
+        "total_development": 114,
+        "continent": "Cannor"
     },
     {
         "Tag": "A03",
@@ -21,7 +23,8 @@
         "government": "republic",
         "religion": "regent_court",
         "main_culture": "moon_elf",
-        "total_development": "66"
+        "total_development": 66,
+        "continent": "Cannor"
     },
     {
         "Tag": "A04",
@@ -29,7 +32,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "half_elf",
-        "total_development": "84"
+        "total_development": 84,
+        "continent": "Cannor"
     },
     {
         "Tag": "A05",
@@ -37,7 +41,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "reverian",
-        "total_development": "68"
+        "total_development": 68,
+        "continent": "Cannor"
     },
     {
         "Tag": "A06",
@@ -45,7 +50,8 @@
         "government": "republic",
         "religion": "the_thought",
         "main_culture": "cliff_gnome",
-        "total_development": "81"
+        "total_development": 81,
+        "continent": "Cannor"
     },
     {
         "Tag": "A09",
@@ -53,7 +59,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "sorncosti",
-        "total_development": "74"
+        "total_development": 74,
+        "continent": "Cannor"
     },
     {
         "Tag": "A11",
@@ -61,7 +68,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "pearlsedger",
-        "total_development": "66"
+        "total_development": 66,
+        "continent": "Cannor"
     },
     {
         "Tag": "A12",
@@ -69,7 +77,8 @@
         "government": "republic",
         "religion": "regent_court",
         "main_culture": "imperial_halfling",
-        "total_development": "61"
+        "total_development": 61,
+        "continent": "Cannor"
     },
     {
         "Tag": "A13",
@@ -77,7 +86,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "gawedi",
-        "total_development": "326"
+        "total_development": 326,
+        "continent": "Cannor"
     },
     {
         "Tag": "A18",
@@ -85,7 +95,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "high_lorentish",
-        "total_development": "52"
+        "total_development": 52,
+        "continent": "Cannor"
     },
     {
         "Tag": "A20",
@@ -93,7 +104,8 @@
         "government": "monarchy",
         "religion": "dwarven_pantheon",
         "main_culture": "ruby_dwarf",
-        "total_development": "57"
+        "total_development": 57,
+        "continent": "Cannor"
     },
     {
         "Tag": "A21",
@@ -101,7 +113,8 @@
         "government": "republic",
         "religion": "elven_forebears",
         "main_culture": "moon_elf",
-        "total_development": "55"
+        "total_development": 55,
+        "continent": "Cannor"
     },
     {
         "Tag": "A24",
@@ -109,7 +122,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "moorman",
-        "total_development": "64"
+        "total_development": 64,
+        "continent": "Cannor"
     },
     {
         "Tag": "A25",
@@ -117,7 +131,8 @@
         "government": "republic",
         "religion": "regent_court",
         "main_culture": "crownsman",
-        "total_development": "65"
+        "total_development": 65,
+        "continent": "Cannor"
     },
     {
         "Tag": "A26",
@@ -125,7 +140,8 @@
         "government": "tribal",
         "religion": "kobold_dragon_cult",
         "main_culture": "redscale_kobold",
-        "total_development": "57"
+        "total_development": 57,
+        "continent": "Cannor"
     },
     {
         "Tag": "A27",
@@ -133,7 +149,8 @@
         "government": "tribal",
         "religion": "kobold_dragon_cult",
         "main_culture": "bluescale_kobold",
-        "total_development": "65"
+        "total_development": 65,
+        "continent": "Cannor"
     },
     {
         "Tag": "A29",
@@ -141,7 +158,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "busilari",
-        "total_development": "144"
+        "total_development": 144,
+        "continent": "Cannor"
     },
     {
         "Tag": "A30",
@@ -149,7 +167,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "wexonard",
-        "total_development": "162"
+        "total_development": 162,
+        "continent": "Cannor"
     },
     {
         "Tag": "A31",
@@ -157,7 +176,8 @@
         "government": "republic",
         "religion": "regent_court",
         "main_culture": "moon_elf",
-        "total_development": "72"
+        "total_development": 72,
+        "continent": "Cannor"
     },
     {
         "Tag": "A32",
@@ -165,7 +185,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "moon_elf",
-        "total_development": "141"
+        "total_development": 141,
+        "continent": "Cannor"
     },
     {
         "Tag": "A33",
@@ -173,7 +194,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "vernman",
-        "total_development": "105"
+        "total_development": 105,
+        "continent": "Cannor"
     },
     {
         "Tag": "A45",
@@ -181,7 +203,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "half_elf",
-        "total_development": "70"
+        "total_development": 70,
+        "continent": "Cannor"
     },
     {
         "Tag": "A46",
@@ -189,7 +212,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "half_elf",
-        "total_development": "118"
+        "total_development": 118,
+        "continent": "Cannor"
     },
     {
         "Tag": "A47",
@@ -197,7 +221,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "tefori",
-        "total_development": "53"
+        "total_development": 53,
+        "continent": "Cannor"
     },
     {
         "Tag": "A48",
@@ -205,7 +230,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "wexonard",
-        "total_development": "87"
+        "total_development": 87,
+        "continent": "Cannor"
     },
     {
         "Tag": "A59",
@@ -213,7 +239,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "corvurian",
-        "total_development": "138"
+        "total_development": 138,
+        "continent": "Cannor"
     },
     {
         "Tag": "A60",
@@ -221,7 +248,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "arannese",
-        "total_development": "50"
+        "total_development": 50,
+        "continent": "Cannor"
     },
     {
         "Tag": "A85",
@@ -229,7 +257,8 @@
         "government": "theocracy",
         "religion": "regent_court",
         "main_culture": "east_damerian",
-        "total_development": "71"
+        "total_development": 71,
+        "continent": "Cannor"
     },
     {
         "Tag": "A89",
@@ -237,7 +266,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "crownsman",
-        "total_development": "50"
+        "total_development": 50,
+        "continent": "Cannor"
     },
     {
         "Tag": "A92",
@@ -245,7 +275,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "esmari",
-        "total_development": "56"
+        "total_development": 56,
+        "continent": "Cannor"
     },
     {
         "Tag": "A93",
@@ -253,7 +284,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "esmari",
-        "total_development": "59"
+        "total_development": 59,
+        "continent": "Cannor"
     },
     {
         "Tag": "A98",
@@ -261,7 +293,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "east_damerian",
-        "total_development": "79"
+        "total_development": 79,
+        "continent": "Cannor"
     },
     {
         "Tag": "B36",
@@ -269,7 +302,8 @@
         "government": "monarchy",
         "religion": "regent_court",
         "main_culture": "marrodic",
-        "total_development": "51"
+        "total_development": 51,
+        "continent": "Cannor"
     },
     {
         "Tag": "F21",
@@ -277,7 +311,8 @@
         "government": "monarchy",
         "religion": "bulwari_sun_cult",
         "main_culture": "sun_elf",
-        "total_development": "85"
+        "total_development": 85,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F22",
@@ -285,7 +320,8 @@
         "government": "monarchy",
         "religion": "old_bulwari_sun_cult",
         "main_culture": "bahari",
-        "total_development": "58"
+        "total_development": 58,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F23",
@@ -293,7 +329,8 @@
         "government": "republic",
         "religion": "ancestor_worship",
         "main_culture": "copper_dwarf",
-        "total_development": "55"
+        "total_development": 55,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F24",
@@ -301,7 +338,8 @@
         "government": "republic",
         "religion": "bulwari_sun_cult",
         "main_culture": "brasanni",
-        "total_development": "64"
+        "total_development": 64,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F25",
@@ -309,7 +347,8 @@
         "government": "monarchy",
         "religion": "bulwari_sun_cult",
         "main_culture": "sun_elf",
-        "total_development": "99"
+        "total_development": 99,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F27",
@@ -317,7 +356,8 @@
         "government": "tribal",
         "religion": "the_hunt",
         "main_culture": "firanyan_harpy",
-        "total_development": "76"
+        "total_development": 76,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F28",
@@ -325,7 +365,8 @@
         "government": "tribal",
         "religion": "xhazobkult",
         "main_culture": "sandfang_gnoll",
-        "total_development": "78"
+        "total_development": 78,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F29",
@@ -333,7 +374,8 @@
         "government": "tribal",
         "religion": "xhazobkult",
         "main_culture": "sandfang_gnoll",
-        "total_development": "97"
+        "total_development": 97,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F37",
@@ -341,7 +383,8 @@
         "government": "monarchy",
         "religion": "bulwari_sun_cult",
         "main_culture": "sun_elf",
-        "total_development": "78"
+        "total_development": 78,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F46",
@@ -349,7 +392,8 @@
         "government": "tribal",
         "religion": "the_jadd",
         "main_culture": "desert_elf",
-        "total_development": "65"
+        "total_development": 65,
+        "continent": "Bulwar"
     },
     {
         "Tag": "F60",
@@ -357,7 +401,8 @@
         "government": "republic",
         "religion": "nirakhetist",
         "main_culture": "tijarikheti",
-        "total_development": "62"
+        "total_development": 62,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "F61",
@@ -365,7 +410,8 @@
         "government": "theocracy",
         "religion": "elikhetist",
         "main_culture": "tijarikheti",
-        "total_development": "68"
+        "total_development": 68,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "F65",
@@ -373,7 +419,8 @@
         "government": "tribal",
         "religion": "xhazobkult",
         "main_culture": "windhowler_gnoll",
-        "total_development": "146"
+        "total_development": 146,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "F69",
@@ -381,7 +428,8 @@
         "government": "tribal",
         "religion": "kvangahga",
         "main_culture": "windhowler_gnoll",
-        "total_development": "94"
+        "total_development": 94,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "F71",
@@ -389,7 +437,8 @@
         "government": "tribal",
         "religion": "xhazobkult",
         "main_culture": "fieldstalker_gnoll",
-        "total_development": "68"
+        "total_development": 68,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "F72",
@@ -397,15 +446,17 @@
         "government": "tribal",
         "religion": "kvangahga",
         "main_culture": "fieldstalker_gnoll",
-        "total_development": "122"
+        "total_development": 122,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "G21",
         "country_name": "Pomvasonn",
-        "government": "monarchy #Previously Pomvasson",
+        "government": "monarchy",
         "religion": "drozma_tur",
         "main_culture": "rzentur",
-        "total_development": "59"
+        "total_development": 59,
+        "continent": "North Aelantir"
     },
     {
         "Tag": "G46",
@@ -413,7 +464,8 @@
         "government": "republic",
         "religion": "kheionism",
         "main_culture": "degabhen",
-        "total_development": "72"
+        "total_development": 72,
+        "continent": "South Aelantir"
     },
     {
         "Tag": "G47",
@@ -421,7 +473,8 @@
         "government": "republic",
         "religion": "kheionism",
         "main_culture": "oktibhen",
-        "total_development": "76"
+        "total_development": 76,
+        "continent": "South Aelantir"
     },
     {
         "Tag": "G50",
@@ -429,7 +482,8 @@
         "government": "republic",
         "religion": "kheionism",
         "main_culture": "ormabhen",
-        "total_development": "56"
+        "total_development": 56,
+        "continent": "South Aelantir"
     },
     {
         "Tag": "G52",
@@ -437,7 +491,8 @@
         "government": "republic",
         "religion": "kheionism",
         "main_culture": "ambhen",
-        "total_development": "100"
+        "total_development": 100,
+        "continent": "South Aelantir"
     },
     {
         "Tag": "G60",
@@ -445,7 +500,8 @@
         "government": "tribal",
         "religion": "gotiriei",
         "main_culture": "eltibhar",
-        "total_development": "71"
+        "total_development": 71,
+        "continent": "South Aelantir"
     },
     {
         "Tag": "G64",
@@ -453,7 +509,8 @@
         "government": "monarchy",
         "religion": "gods_of_the_taychend",
         "main_culture": "larankarha",
-        "total_development": "85"
+        "total_development": 85,
+        "continent": "South Aelantir"
     },
     {
         "Tag": "H72",
@@ -461,7 +518,8 @@
         "government": "tribal",
         "religion": "old_dookan",
         "main_culture": "highhold_orc",
-        "total_development": "63"
+        "total_development": 63,
+        "continent": "Serpentspine"
     },
     {
         "Tag": "I26",
@@ -469,7 +527,8 @@
         "government": "tribal",
         "religion": "fey_court",
         "main_culture": "wood_elf",
-        "total_development": "55"
+        "total_development": 55,
+        "continent": "Cannor"
     },
     {
         "Tag": "I43",
@@ -477,7 +536,8 @@
         "government": "tribal",
         "religion": "great_dookan",
         "main_culture": "green_orc",
-        "total_development": "57"
+        "total_development": 57,
+        "continent": "Cannor"
     },
     {
         "Tag": "I57",
@@ -485,7 +545,8 @@
         "government": "tribal",
         "religion": "irdaeos_worship",
         "main_culture": "plain_centaur",
-        "total_development": "56"
+        "total_development": 56,
+        "continent": "Forbidden Lands"
     },
     {
         "Tag": "I78",
@@ -493,7 +554,8 @@
         "government": "tribal",
         "religion": "irdaeos_worship",
         "main_culture": "plain_centaur",
-        "total_development": "134"
+        "total_development": 134,
+        "continent": "Forbidden Lands"
     },
     {
         "Tag": "I80",
@@ -501,7 +563,8 @@
         "government": "tribal",
         "religion": "irdaeos_worship",
         "main_culture": "plain_centaur",
-        "total_development": "50"
+        "total_development": 50,
+        "continent": "Forbidden Lands"
     },
     {
         "Tag": "L01",
@@ -509,7 +572,8 @@
         "government": "republic",
         "religion": "noukahi_pantheon",
         "main_culture": "kuivanhi",
-        "total_development": "86"
+        "total_development": 86,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L03",
@@ -517,7 +581,8 @@
         "government": "republic",
         "religion": "noukahi_pantheon",
         "main_culture": "ikilshebe",
-        "total_development": "54"
+        "total_development": 54,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L04",
@@ -525,7 +590,8 @@
         "government": "republic",
         "religion": "elikhetist",
         "main_culture": "kudemtu",
-        "total_development": "52"
+        "total_development": 52,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L05",
@@ -533,7 +599,8 @@
         "government": "republic",
         "religion": "noukahi_pantheon",
         "main_culture": "gumzemo",
-        "total_development": "65"
+        "total_development": 65,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L08",
@@ -541,7 +608,8 @@
         "government": "republic",
         "religion": "noukahi_pantheon",
         "main_culture": "kudemtu",
-        "total_development": "77"
+        "total_development": 77,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L09",
@@ -549,7 +617,8 @@
         "government": "republic",
         "religion": "noukahi_pantheon",
         "main_culture": "zuvunwa",
-        "total_development": "63"
+        "total_development": 63,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L10",
@@ -557,7 +626,8 @@
         "government": "republic",
         "religion": "fangaulan_pantheon",
         "main_culture": "jiromji",
-        "total_development": "59"
+        "total_development": 59,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L13",
@@ -565,7 +635,8 @@
         "government": "republic",
         "religion": "elikhetist",
         "main_culture": "mantimatu",
-        "total_development": "64"
+        "total_development": 64,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L14",
@@ -573,7 +644,8 @@
         "government": "republic",
         "religion": "fangaulan_pantheon",
         "main_culture": "tamajoba",
-        "total_development": "78"
+        "total_development": 78,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L16",
@@ -581,7 +653,8 @@
         "government": "tribal",
         "religion": "fangaulan_pantheon",
         "main_culture": "ndurubu",
-        "total_development": "81"
+        "total_development": 81,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L22",
@@ -589,7 +662,8 @@
         "government": "monarchy",
         "religion": "fangaulan_pantheon",
         "main_culture": "binwarji",
-        "total_development": "97"
+        "total_development": 97,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L37",
@@ -597,7 +671,8 @@
         "government": "tribal",
         "religion": "nakavy_avo",
         "main_culture": "fomarati",
-        "total_development": "51"
+        "total_development": 51,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L66",
@@ -605,7 +680,8 @@
         "government": "monarchy",
         "religion": "shadow_pact",
         "main_culture": "ofehibi",
-        "total_development": "89"
+        "total_development": 89,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L67",
@@ -613,7 +689,8 @@
         "government": "tribal",
         "religion": "sky_domain",
         "main_culture": "sitewosi",
-        "total_development": "61"
+        "total_development": 61,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L68",
@@ -621,7 +698,8 @@
         "government": "monarchy",
         "religion": "anzalkatsa",
         "main_culture": "shagashay_lizardfolk",
-        "total_development": "103"
+        "total_development": 103,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L70",
@@ -629,7 +707,8 @@
         "government": "monarchy",
         "religion": "anzalkatsa",
         "main_culture": "shagatyn_lizardfolk",
-        "total_development": "64"
+        "total_development": 64,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L71",
@@ -637,7 +716,8 @@
         "government": "monarchy",
         "religion": "anzalkatsa",
         "main_culture": "skarakara_lizardfolk",
-        "total_development": "85"
+        "total_development": 85,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L72",
@@ -645,7 +725,8 @@
         "government": "tribal",
         "religion": "anzalkatsa",
         "main_culture": "arraskay_lizardfolk",
-        "total_development": "68"
+        "total_development": 68,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L80",
@@ -653,7 +734,8 @@
         "government": "tribal",
         "religion": "zaradyrra",
         "main_culture": "ashhana_lizardfolk",
-        "total_development": "76"
+        "total_development": 76,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L81",
@@ -661,7 +743,8 @@
         "government": "monarchy",
         "religion": "anzalkatsa",
         "main_culture": "mashkay_lizardfolk",
-        "total_development": "70"
+        "total_development": 70,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L84",
@@ -669,7 +752,8 @@
         "government": "monarchy",
         "religion": "anzalkatsa",
         "main_culture": "rhada_lizardfolk",
-        "total_development": "63"
+        "total_development": 63,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L95",
@@ -677,7 +761,8 @@
         "government": "tribal",
         "religion": "anzalkatsa",
         "main_culture": "arraskay_lizardfolk",
-        "total_development": "182"
+        "total_development": 182,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "L96",
@@ -685,7 +770,8 @@
         "government": "tribal",
         "religion": "anzalkatsa",
         "main_culture": "arraskay_lizardfolk",
-        "total_development": "55"
+        "total_development": 55,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "R01",
@@ -693,7 +779,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "raghamidesh",
-        "total_development": "69"
+        "total_development": 69,
+        "continent": "Haless"
     },
     {
         "Tag": "R02",
@@ -701,7 +788,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "raghamidesh",
-        "total_development": "70"
+        "total_development": 70,
+        "continent": "Haless"
     },
     {
         "Tag": "R04",
@@ -709,7 +797,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "raghamidesh",
-        "total_development": "76"
+        "total_development": 76,
+        "continent": "Haless"
     },
     {
         "Tag": "R07",
@@ -717,7 +806,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "shandibad",
-        "total_development": "161"
+        "total_development": 161,
+        "continent": "Haless"
     },
     {
         "Tag": "R10",
@@ -725,7 +815,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "royal_harimari",
-        "total_development": "53"
+        "total_development": 53,
+        "continent": "Haless"
     },
     {
         "Tag": "R38",
@@ -733,7 +824,8 @@
         "government": "republic",
         "religion": "high_philosophy",
         "main_culture": "sarniryabsad",
-        "total_development": "181"
+        "total_development": 181,
+        "continent": "Haless"
     },
     {
         "Tag": "R41",
@@ -741,7 +833,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "royal_harimari",
-        "total_development": "59"
+        "total_development": 59,
+        "continent": "Haless"
     },
     {
         "Tag": "R51",
@@ -749,15 +842,17 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "royal_harimari",
-        "total_development": "72"
+        "total_development": 72,
+        "continent": "Haless"
     },
     {
         "Tag": "R62",
-        "country_name": "Hobgoblin Command",
+        "country_name": "The Command",
         "government": "monarchy",
         "religion": "godlost",
         "main_culture": "wolf_command",
-        "total_development": "478"
+        "total_development": 478,
+        "continent": "Haless"
     },
     {
         "Tag": "R65",
@@ -765,7 +860,8 @@
         "government": "tribal",
         "religion": "goblinic_shamanism",
         "main_culture": "undergrowth_goblin",
-        "total_development": "52"
+        "total_development": 52,
+        "continent": "Serpentspine"
     },
     {
         "Tag": "S17",
@@ -773,7 +869,8 @@
         "government": "monarchy",
         "religion": "rinta_seekers",
         "main_culture": "suhratbi",
-        "total_development": "122"
+        "total_development": 122,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "S18",
@@ -781,7 +878,8 @@
         "government": "monarchy",
         "religion": "rinta_seekers",
         "main_culture": "dhebiji",
-        "total_development": "126"
+        "total_development": 126,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "S19",
@@ -789,7 +887,8 @@
         "government": "monarchy",
         "religion": "rinta_seekers",
         "main_culture": "dhebiji",
-        "total_development": "96"
+        "total_development": 96,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "S20",
@@ -797,7 +896,8 @@
         "government": "monarchy",
         "religion": "rinta_seekers",
         "main_culture": "ashamadi",
-        "total_development": "65"
+        "total_development": 65,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "S21",
@@ -805,7 +905,8 @@
         "government": "monarchy",
         "religion": "rinta_seekers",
         "main_culture": "ashamadi",
-        "total_development": "61"
+        "total_development": 61,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "S70",
@@ -813,7 +914,8 @@
         "government": "theocracy",
         "religion": "night_coven",
         "main_culture": "swamp_troll",
-        "total_development": "232"
+        "total_development": 232,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "U01",
@@ -821,7 +923,8 @@
         "government": "monarchy",
         "religion": "elikhetist",
         "main_culture": "hapremiti",
-        "total_development": "174"
+        "total_development": 174,
+        "continent": "North Sarhal"
     },
     {
         "Tag": "U02",
@@ -829,7 +932,8 @@
         "government": "theocracy",
         "religion": "nirakhetist",
         "main_culture": "hapremiti",
-        "total_development": "87"
+        "total_development": 87,
+        "continent": "North Sarhal"
     },
     {
         "Tag": "U05",
@@ -837,7 +941,8 @@
         "government": "monarchy",
         "religion": "bulwari_sun_cult",
         "main_culture": "sun_elf",
-        "total_development": "180"
+        "total_development": 180,
+        "continent": "North Sarhal"
     },
     {
         "Tag": "U06",
@@ -845,7 +950,8 @@
         "government": "monarchy",
         "religion": "mother_akasik",
         "main_culture": "desha",
-        "total_development": "94"
+        "total_development": 94,
+        "continent": "North Sarhal"
     },
     {
         "Tag": "U07",
@@ -853,7 +959,8 @@
         "government": "tribal",
         "religion": "xhazobkult",
         "main_culture": "seascourge_gnoll",
-        "total_development": "135"
+        "total_development": 135,
+        "continent": "North Sarhal"
     },
     {
         "Tag": "U09",
@@ -861,7 +968,8 @@
         "government": "tribal",
         "religion": "xhazobkult",
         "main_culture": "pyreclaw_gnoll",
-        "total_development": "192"
+        "total_development": 192,
+        "continent": "South Sarhal"
     },
     {
         "Tag": "U12",
@@ -869,7 +977,8 @@
         "government": "tribal",
         "religion": "pactseeker",
         "main_culture": "forest_goblin",
-        "total_development": "52"
+        "total_development": 52,
+        "continent": "Cannor"
     },
     {
         "Tag": "U15",
@@ -877,7 +986,8 @@
         "government": "tribal",
         "religion": "goblinic_shamanism",
         "main_culture": "exodus_goblin",
-        "total_development": "74"
+        "total_development": 74,
+        "continent": "Bulwar"
     },
     {
         "Tag": "V01",
@@ -885,7 +995,8 @@
         "government": "tribal",
         "religion": "un_khudai",
         "main_culture": "oinukhudi",
-        "total_development": "124"
+        "total_development": 124,
+        "continent": "Haless"
     },
     {
         "Tag": "Y01",
@@ -893,7 +1004,8 @@
         "government": "theocracy",
         "religion": "devouring_path",
         "main_culture": "horned_ogre",
-        "total_development": "120"
+        "total_development": 120,
+        "continent": "Haless"
     },
     {
         "Tag": "Y02",
@@ -901,7 +1013,8 @@
         "government": "republic",
         "religion": "devouring_path",
         "main_culture": "jiangszun",
-        "total_development": "73"
+        "total_development": 73,
+        "continent": "Haless"
     },
     {
         "Tag": "Y05",
@@ -909,7 +1022,8 @@
         "government": "republic",
         "religion": "accretive_path",
         "main_culture": "jiangszun",
-        "total_development": "80"
+        "total_development": 80,
+        "continent": "Haless"
     },
     {
         "Tag": "Y09",
@@ -917,7 +1031,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "jiangszun",
-        "total_development": "159"
+        "total_development": 159,
+        "continent": "Haless"
     },
     {
         "Tag": "Y15",
@@ -925,7 +1040,8 @@
         "government": "republic",
         "religion": "accretive_path",
         "main_culture": "jiangyang",
-        "total_development": "57"
+        "total_development": 57,
+        "continent": "Haless"
     },
     {
         "Tag": "Y16",
@@ -933,7 +1049,8 @@
         "government": "republic",
         "religion": "high_philosophy",
         "main_culture": "serene_harimari",
-        "total_development": "55"
+        "total_development": 55,
+        "continent": "Haless"
     },
     {
         "Tag": "Y19",
@@ -941,7 +1058,8 @@
         "government": "republic",
         "religion": "high_philosophy",
         "main_culture": "jiangszun",
-        "total_development": "61"
+        "total_development": 61,
+        "continent": "Haless"
     },
     {
         "Tag": "Y20",
@@ -949,7 +1067,8 @@
         "government": "republic",
         "religion": "high_philosophy",
         "main_culture": "gangim",
-        "total_development": "61"
+        "total_development": 61,
+        "continent": "Haless"
     },
     {
         "Tag": "Y51",
@@ -957,7 +1076,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "ranilau",
-        "total_development": "115"
+        "total_development": 115,
+        "continent": "Haless"
     },
     {
         "Tag": "Y52",
@@ -965,7 +1085,8 @@
         "government": "republic",
         "religion": "high_philosophy",
         "main_culture": "chengrong",
-        "total_development": "55"
+        "total_development": 55,
+        "continent": "Haless"
     },
     {
         "Tag": "Y53",
@@ -973,7 +1094,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "biengdi",
-        "total_development": "61"
+        "total_development": 61,
+        "continent": "Haless"
     },
     {
         "Tag": "Y55",
@@ -981,7 +1103,8 @@
         "government": "republic",
         "religion": "high_philosophy",
         "main_culture": "biengdi",
-        "total_development": "79"
+        "total_development": 79,
+        "continent": "Haless"
     },
     {
         "Tag": "Y58",
@@ -989,7 +1112,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "teplin",
-        "total_development": "68"
+        "total_development": 68,
+        "continent": "Haless"
     },
     {
         "Tag": "Y64",
@@ -997,7 +1121,8 @@
         "government": "republic",
         "religion": "transmutative_path",
         "main_culture": "naamjyut",
-        "total_development": "94"
+        "total_development": 94,
+        "continent": "Haless"
     },
     {
         "Tag": "Y65",
@@ -1005,7 +1130,8 @@
         "government": "monarchy",
         "religion": "high_philosophy",
         "main_culture": "kelino",
-        "total_development": "111"
+        "total_development": 111,
+        "continent": "Haless"
     },
     {
         "Tag": "Y71",
@@ -1013,7 +1139,8 @@
         "government": "republic",
         "religion": "transmutative_path",
         "main_culture": "bokai",
-        "total_development": "87"
+        "total_development": 87,
+        "continent": "Haless"
     },
     {
         "Tag": "Y72",
@@ -1021,7 +1148,8 @@
         "government": "monarchy",
         "religion": "transmutative_path",
         "main_culture": "binhrung",
-        "total_development": "77"
+        "total_development": 77,
+        "continent": "Haless"
     },
     {
         "Tag": "Y91",
@@ -1029,7 +1157,8 @@
         "government": "tribal",
         "religion": "saanorgegh",
         "main_culture": "shuvuush",
-        "total_development": "73"
+        "total_development": 73,
+        "continent": "Haless"
     },
     {
         "Tag": "Y93",
@@ -1037,7 +1166,8 @@
         "government": "monarchy",
         "religion": "bangujonsi",
         "main_culture": "sangsogha",
-        "total_development": "200"
+        "total_development": 200,
+        "continent": "Haless"
     },
     {
         "Tag": "Y97",
@@ -1045,7 +1175,8 @@
         "government": "monarchy",
         "religion": "transmutative_path",
         "main_culture": "khom",
-        "total_development": "148"
+        "total_development": 148,
+        "continent": "Haless"
     },
     {
         "Tag": "Z08",
@@ -1053,7 +1184,8 @@
         "government": "monarchy",
         "religion": "skaldhyrric_faith",
         "main_culture": "east_dalr",
-        "total_development": "112"
+        "total_development": 112,
+        "continent": "Cannor"
     },
     {
         "Tag": "Z18",
@@ -1061,6 +1193,7 @@
         "government": "tribal",
         "religion": "old_dookan",
         "main_culture": "gray_orc",
-        "total_development": "90"
+        "total_development": 90,
+        "continent": "Cannor"
     }
 ]

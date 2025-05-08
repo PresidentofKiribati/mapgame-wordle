@@ -1,29 +1,26 @@
+// React 
 import React from 'react';
 import { useState } from 'react';
-import Game from '../logic/Game';
-import {Menubar} from 'primereact/menubar'
+
+// Components as well as actual game
+import Game from './components/Game';
+import Menu from './components/Menu';
+import Scoreboard from './components/Scoreboard';
+
+// Css styles
 import "../src/App.css"
-import Scoreboard from '../logic/Scoreboard';
 
 
-
-
-
-const Menu = ({items}) => {
-  return (
-    <Menubar model={items}/>
-  )
-}
-
+// App
 function App() {
   const[pickedGame, setPickedGame] = useState("EU4");
   const[showScoreboard, setShowScoreboard] = useState(false);
   const[showGame, setShowGame] = useState(false);
 
-
+  // Items that are used for the top menu bar aswell as what clicking them does
   const menuitems = [
     {
-      label:"EU4",  
+      label:<div style={{color:"#0f2027"}}>EU4</div>,  
       command: () => {
         setShowGame(true)
         setPickedGame("EU4")
@@ -31,7 +28,7 @@ function App() {
       }
     },
     {
-      label:"Anbennar",  
+      label:<div style={{color:"#0f2027"}}>Anbennar</div>,  
       command: () => {
         setShowGame(true)
         setPickedGame("ANBENNAR")
@@ -39,7 +36,7 @@ function App() {
       }
     },
     {
-      label:"HOI4",  
+      label:<div style={{color:"#0f2027"}}>HOI4</div>,  
       command: () => {
         setShowGame(true)
         setPickedGame("HOI4")
@@ -47,7 +44,7 @@ function App() {
       }
     },
     {
-      label:"Scoreboard",  
+      label:<div style={{color:"#0f2027"}}>Scoreboard</div>,  
       command: () => {
         setShowGame(false)
         setShowScoreboard(true)
@@ -56,11 +53,8 @@ function App() {
   ]
 
   return (
-
-
     <div>
       <Menu items={menuitems}/>
-      <h1>EU4 hoi4 wordle</h1>
       {showGame && <Game pickedTitle={pickedGame}/>}
       {showScoreboard && <Scoreboard/>}
     </div>

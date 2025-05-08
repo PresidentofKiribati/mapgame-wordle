@@ -1,9 +1,18 @@
-body {
-    font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(120deg, #1e3c72, #2a5298);
-    color:white;
+* {
     margin:0;
     padding:0;
+    box-sizing: border-box;
+}
+
+/* OVERALL BODY DESIGN */
+
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(120deg, #0f2027, #203a43, #2c5364);
+    color:white;
+    margin:0;
+    padding:20px;
     min-height: 100vh;
 }
 
@@ -15,7 +24,8 @@ input {
     margin-top: 10px;
     margin-left: 10px;
     width: 60%;
-    max-width: 400px;
+    min-width: 400px;
+    max-width: 600px;
 }
 
 form {
@@ -23,21 +33,26 @@ form {
     text-align: center;
 }
 
+/* GUESS THE COUNTRY-TEXT */
+.titlecard {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 40px;
+}
+
+/* BAR THAT CONTAINS INPUT AND GUESSES */
+.guessbar {
+    align-items: center;
+    display:flex;
+    margin: 20px 50px 20px 20px
+}
+
+/* WORDLE GUESSGRID AND GUESSBLOCKS */
 
 .guessgrid {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    background-color: gray;
-    text-align: center;
-    justify-content: center;
-    gap:10px;
-    align-items: stretch;
-}
-
-.guessgridHOI {
-    display: grid;
     grid-template-columns: repeat(6, 1fr);
-    background-color: gray;
+    background-color: #0f2027;
     text-align: center;
     justify-content: center;
     gap:10px;
@@ -53,40 +68,88 @@ form {
     align-items: center;
 }
 
+@keyframes guessPopOut {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .guessgrid,
+  .guessgridHOI {
+    animation: guessPopOut 0.3s ease-out;
+  }
+
 .guessblock,
-.guessblock2,
+.guessblockWrong,
+.guessblockhigher,
+.guessblocklower,
+.guessblockCorrect {
+    width: 100%;
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.guessblockCorrect {
+    border:3px solid green
+}
+
+.guessblockWrong,
 .guessblockhigher,
 .guessblocklower {
-    width: 100%;
-    min-height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    box-sizing: border-box;
+    border:3px solid red
 }
-
-.guessblockbase {
-    width: 100%;
-    min-height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin: 10px;
-    text-transform: uppercase;
-    border-radius: 10px;
-    font-weight: bold;
-    padding: 10px;
-    box-sizing: border-box;
-    border: 2px solid red;
-    background-color: rgba(255, 255, 255, 0.1);
-}
-
 
 .guessblock:hover, .guessblock2:hover, .guessblockhigher:hover, .guessblocklower:hover {
     background-color: rgba(0,0,0,0.25);
     transition: 0.5s;
+}
+
+/* POPUPS (WIN AND LOSE) */
+
+.popupbox {
+    color:white;
+    background-color: #0f2027;
+    border: 5px solid #203a43;
+    padding: 30px;
+    box-shadow: 0, 0, 10px, rgba(0,255,255,0.25);
+    border-radius: 10px;
+    gap:10px;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.popupbox form input {
+    background-color: rgba(255,255,255,0.11);
+    bottom: 10px;
+    border-color: white;
+    color:white;
+    position: flex;
+    margin: 15px;
+    width: 100%;
+}
+
+.popupbutton {
+    background-color: rgba(255,255,255,0.1);
+    color:white;
+    border: none;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    display: inline-block;
+    padding: 20px 15px;
+    transition-duration: 0.1s;
+}
+
+.popupbutton:hover{
+    background-color: rgba(0,0,0,0.25);
 }
 
 .winpopup {
@@ -97,7 +160,7 @@ form {
     right:0;
     bottom:0;
 
-    background-color: rgba(0,0,0,0.1);
+    background-color: rgba(0,0,0,0.5);
     color:black;
 
     transition: all 0.3s ease-in-out;
@@ -108,64 +171,94 @@ form {
 }
 
 .winpopup.open {
-
     opacity: 1;
     position: fixed;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-
-    transition: all 0.3s ease-in-out;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
-.popupbox {
-    background-color: aliceblue;
-    border: 5px solid black;
-    padding: 30px;
-    box-shadow: 0, 0, 10px, rgba(0,0,0,0.25);
-    border-radius: 10px;
-    gap:10px;
-    transition: opacity 0.3s ease-in-out;
-}
 
-.popupbox form input {
-    background-color: rgba(0,0,0,0.25);
-    bottom: 10px;
-    border-color: black;
-    position: flex;
-    margin: 15px;
-    width: 100%;
-}
-
-.popupbox form button {
-    background-color: rgba(0,0,0,0.1);
-    border: none;
-    text-align: center;
-    font-weight: bold;
-    font-size: 16px;
-    display: inline-block;
-    padding: 20px 15px;
-    transition-duration: 0.1s;
-}
-
-.popupbox form button:hover{
-    background-color: rgba(0,0,0,0.25);
-}
+/* TOP MENU*/
 
 .p-menubar {
-    background-color: gray;
+    background-color: #2c5364;
     align-items: center;
-    padding:20px;
+    padding:15px 40px;
+    border-radius: 0 0;
+    margin-left: calc(-1*20px);
+    margin-right: calc(-1*20px);
+    margin-top: calc(-1*20px);
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     position:relative;
+    box-shadow: 0 2px 4px #203a43;
+    height: 80px;
 }
 
 .p-menuitem {
-    margin-right:50px ;
+    color: black;
+    margin-right:50px;
+    padding: 20px 20px;
+    border-radius: 6px;
+    transition: 0.2s ease;
+}
+
+.p-menuitem:hover {
+    background-color: rgba(0,0,0,0.25);
+}
+
+.p-menuitem:active {
+    background-color: rgba(0,0,0,0.5);
+}
+
+/* SCOREBOARD */
+
+.scoreboard {
+    width: 100%;
+    padding: 20px;
+    background-color: #0f2027;
+    margin: 20px;
+    box-shadow: 4px #203a43;
+    text-align: center;
+}
+
+.scoreboard h2 {
+    font-size:xx-large;
+    font-style:oblique;
+}
+
+.scoreboardlist {
+    list-style:none;
+    margin: 5px;
+}
+
+.scoreboardname {
+    color:white;
+    padding: 20px;
+}
+
+
+/* SUGGESTIONS */
+
+.suggestions {
+    max-height: 0;
+    opacity: 0;
+    list-style: none;
+    margin-top: 5px;
+    padding: 5px;
+    transition: 0.3s ease-in-out;
+}
+
+.suggestionsopen {
+    max-height: 350px;
+    opacity: 1;
+    list-style: none;
+    margin-top: 5px;
+    padding: 5px;
+    transition: 0.3s ease-in-out;
+}
+
+
+.suggestion {
+    padding: 2px;
+    margin: 5px;
+    border: 1px solid black;
 }
